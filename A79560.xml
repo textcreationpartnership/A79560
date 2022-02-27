@@ -1,0 +1,1069 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The divine warrant of infant-baptism. Or VI. arguments for baptism of infants of Christians. viz. I. Infants of Christians are rightly judged in the promise of propriety in God. p.1. II. Infants of Christians are rightly judged to be of the church. p.20. III. Infants of Christians are rightly judged meet for baptisme. p.25. IV. The sealing of the promise to infants of visible professors, hath been the practise of the universal church ever since God added seals to the covenant. p.30 V. The profit of baptism is great to the infants of Christians. p.36. VI. The promise was sealed by the initiall sacrament aforetime to infants of visible professors, both Jews and of the Gentiles. p.38. / By John Church, M.A. minister of Seachurch, in the county of Essex.</title>
+            <author>Church, Josiah.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 146 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79560</idno>
+            <idno type="STC">Wing C3987</idno>
+            <idno type="STC">Thomason E441_9</idno>
+            <idno type="EEBO-CITATION">99864345</idno>
+            <idno type="PROQUEST">99864345</idno>
+            <idno type="VID">161669</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161669)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The divine warrant of infant-baptism. Or VI. arguments for baptism of infants of Christians. viz. I. Infants of Christians are rightly judged in the promise of propriety in God. p.1. II. Infants of Christians are rightly judged to be of the church. p.20. III. Infants of Christians are rightly judged meet for baptisme. p.25. IV. The sealing of the promise to infants of visible professors, hath been the practise of the universal church ever since God added seals to the covenant. p.30 V. The profit of baptism is great to the infants of Christians. p.36. VI. The promise was sealed by the initiall sacrament aforetime to infants of visible professors, both Jews and of the Gentiles. p.38. / By John Church, M.A. minister of Seachurch, in the county of Essex.</title>
+                  <author>Church, Josiah.</author>
+               </titleStmt>
+               <extent>[6], 50 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock, for George Calvert, and are to be sold at his shop at the sign of the Half Moon in Watling street, neer Austins gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>John Church = Josiah Church. The author's name is incorrectly given on the title page (McAlpin).</note>
+                  <note>Annotation on Thomason copy: "May 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161669:1" rendition="simple:additions"/>
+            <p>THE Divine Warrant OF <hi>JNFANT-BAPTISM.</hi> OR VI. ARGUMENTS FOR <hi>Baptiſm of Jnfants of Christians. VIZ.</hi>
+               <list>
+                  <item>I. Infants of Chriſtians are right<g ref="char:EOLhyphen"/>ly judged in the Promiſe of Propriety in God. p. 1.</item>
+                  <item>II. Infants of Chriſtians are rightly judged to be of the Church. p. 20.</item>
+                  <item>III. Infants of Chriſtians are rightly judged meet for Baptiſme. p. 25</item>
+                  <item>IV. The ſealing of the Promiſe to Infants of viſible profeſ<g ref="char:EOLhyphen"/>ſors, hath been the practiſe of the Univerſal Church ever ſince God added ſeals to the Covenant. p. 30</item>
+                  <item>V. The profit of Baptiſm is great to the Infants of Chri<g ref="char:EOLhyphen"/>ſtians. p. 36</item>
+                  <item>VI. The Promiſe was ſealed by the initiall Sacrament afore<g ref="char:EOLhyphen"/>time to Infants of Viſi<g ref="char:EOLhyphen"/>ble Profeſſors, both Jews and of the Gentiles. p 38</item>
+               </list>
+            </p>
+            <p>By JOHN CHURCH, M. A. Miniſter of <hi>Seachurch,</hi> in the County of <hi>Eſſex.</hi>
+            </p>
+            <q>Repent and be Baptized every one of you in the Name of Jeſus Chriſt, for the remiſſion of ſins.—For the promiſe is to you, and to your CHILDREN, and to all that are a far off, even as many as the Lord our God ſhal call. <bibl>
+                  <hi>Act. 2.38.39.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock,</hi> for <hi>George Calvert,</hi> and are to be ſold at his ſhop at the ſign of the <hi>Half Moon</hi> in <hi>Watling</hi> ſtreet, neer <hi>Auſtins</hi> gate. MDCXLVIII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:161669:2"/>
+            <pb facs="tcp:161669:2"/>
+            <head>To the ſober-minded Reader.</head>
+            <p>HAving read this ſhort Treatiſe, we find the <hi>Divine Warrant</hi> of that<note n="a" place="margin">Quod autem apud ſimplicem vulgum diſſe<g ref="char:EOLhyphen"/>minant, longam annorum ſertem poſt Chriſti re<g ref="char:EOLhyphen"/>ſurrectionem p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aeteriiſſe, qui<g ref="char:EOLhyphen"/>bus incognitus erat pae<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ap<g ref="char:EOLhyphen"/>tiſmus, in eo foediſſime men<g ref="char:EOLhyphen"/>tiun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur<g ref="char:punc">▪</g> Siqui<g ref="char:EOLhyphen"/>dem nullus eſt Scriptor tam vetustus, qui non ejus origi<g ref="char:EOLhyphen"/>nem ad Apoſto<g ref="char:EOLhyphen"/>lorum ſeculum pro certo referat <hi>Calv. Inſt. l. 4 c. 16.</hi> ſect <hi>8.</hi>
+               </note> ancient Ordinance of Chriſt, viz. <hi>Infant-Baptiſm,</hi> ſo clearly, com<g ref="char:EOLhyphen"/>pendiouſly and ſolidly proved therein, not by <hi>Eccleſiaſtical Tradition</hi>
+               <note n="b" place="margin">Anabaptiſtas, Duraee, Scrip<g ref="char:EOLhyphen"/>turarum armis opprimimus, quibus ſolis hae<g ref="char:EOLhyphen"/>retici ſuperan<g ref="char:EOLhyphen"/>tur. Si enim nulla nobis ar<g ref="char:EOLhyphen"/>ma ſuppeterent, niſi haec (viz. <hi>Eccleſiae Tra<g ref="char:EOLhyphen"/>ditiones</hi>) quae tu commemoras, nae Anabaptiſtae noſtrum impe<g ref="char:EOLhyphen"/>tum non valde reformidarent; <hi>Whitak. con<g ref="char:EOLhyphen"/>tra Du<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ae. l 8. ſect. 80. p 197. in fol.</hi>
+               </note>, but by <hi>Scripture-demonſtration,</hi> that we do heartily commend it to thy ſerious peruſal, wherein thou mayſt diſcern that Infants of Chriſtian Parents are true <hi>Denizons</hi> of the viſible Church and Kingdom of God; having just right to, and intereſt in Gods <hi>Magna Charta</hi> or <hi>Covenant of Grace;</hi> though ſome enemies to them, and to the Truth, have of late, but in vain, attempted to voyd and overthrow their <hi>Title.</hi> Many
+<pb facs="tcp:161669:3"/> learned Tractates of this ſubject have been already publiſhed; if their prolix<g ref="char:EOLhyphen"/>ity, or polemical contendings for this truth againſt <hi>Anabaptiſtical</hi> or <hi>Cata<g ref="char:EOLhyphen"/>baptiſtical</hi> fancies, deter or diſcourage thee from reading them: yet this invites thee, being <hi>Dogmatical,</hi> rather then <hi>Polemical;</hi> and not <hi>tedious,</hi> but <hi>com<g ref="char:EOLhyphen"/>pendious.</hi> Here thou haſt (as they ſay) an <hi>Iliad in a nut-ſhel;</hi> much in a little; the ſtrength of former Writers Arguments, (for the<note n="c" place="margin">Legentibus brevitas ejuſ<g ref="char:EOLhyphen"/>modi plurimum p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oteſt, dum non intellectum legentis &amp; ſen<g ref="char:EOLhyphen"/>ſum liber lon<g ref="char:EOLhyphen"/>gior ſpargit, ſed ſubtiliori com<g ref="char:EOLhyphen"/>pendio id quod legitur tenax memoria cuſto<g ref="char:EOLhyphen"/>dit; <hi>D. Cypr. Praefat. in Teſtam. ad Quirinum.</hi>
+               </note> help of memory) extracted and contracted with ſelect ad<g ref="char:EOLhyphen"/>ditional notions of the Authors inſerted. <hi>All are thine,</hi> that the Truth of Chriſt may abide in thee.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>FRAN. ROBERTS, Paſtor of the Church at Auguſtines,</hi> Lond.</item>
+                     <item>
+                        <hi>JOHN GEREE, Miniſter at Faith's.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:161669:3"/>
+            <head>To the right Honorable, and moſt noble Lord, <hi>Robert</hi> Earl of <hi>Warwick,</hi> Lord <hi>Rich,</hi> Baron of <hi>Leeze,</hi> &amp;c.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was hoped, not long ſince, that the time was come, in which God would gloriouſ<g ref="char:EOLhyphen"/>ly exalt his Truth, and make <hi>Ieruſalem</hi> a praiſe in the earth; for God ſeemed to appear more for us then ever in our, or our forefathers days: In aſſembling ſo many Worthies in Parliament; in calling an Aſſembly of ſo able and worthy Divines; in bringing the Nation into the bond of a Covenant, to root out Popery, Prelacy, Errors, Hereſies, Schiſm, and all that is contrary to ſound do<g ref="char:EOLhyphen"/>ctrine; and in ſubduing the publike enemies of Truth and Peace.</p>
+            <p>But our iniquities have ſeparated between God and us, and our ſins have hid away his face from us; We looked for light, and behold darkneſs: God hath let looſe men of corrupt minds, reprobate concerning the faith, who reſiſt the trurh, and bring in damnable He<g ref="char:EOLhyphen"/>reſies, and many follow their pernicious ways.</p>
+            <p>The abounding of Errors, (and in particular, the ſpreading of Anabaptiſm,) calling all to contend for the faith, hath compelled me (contrary to my in<g ref="char:EOLhyphen"/>tentions) to make publike this defence of<note n="*" place="margin">Tanto magis pro infantibus loqui debemus quanto minus ipſi per ſe loqui poſſunt. <hi>Auguſt</hi>
+               </note> Poedo bap<g ref="char:EOLhyphen"/>tiſm, which is the fruit of ſome hours, ſpared from my other ſtudies.</p>
+            <pb facs="tcp:161669:4"/>
+            <p>I am bold (Right Honorable) humbly to dedi<g ref="char:EOLhyphen"/>cate theſe my firſt fruits to your honor, and with all obſervancy to ſubject them to your judicious cenſure.</p>
+            <p>That which hath made me thus preſuming, is your ſingular goodneſs, and unparalleld humility, which makes you worthily had in honor of all.</p>
+            <p>
+               <hi>Artaxerxes,</hi> the <hi>Perſian Monarch,</hi> received, with a chearful countenance, a preſent of water of a poor la<g ref="char:EOLhyphen"/>bourer, when he had no need of it, accounting it the part of a truly Noble and generous ſpirit, to take in good part ſmal preſents offered with an hearty affecti<g ref="char:EOLhyphen"/>on, as wel as to give great things liberally.</p>
+            <p>This ſmal preſent (moſt Noble Lord) is preſented with an intire affection, to one as truly Noble and ge<g ref="char:EOLhyphen"/>nerous as <hi>Artaxerxes.</hi>
+            </p>
+            <p>Your unfeigned love to the truth, manifeſted by your conſtant cleaving to it, (even in this hour of temptati<g ref="char:EOLhyphen"/>on, which is come upon us, in which many are turned aſide after <hi>Satan;</hi>) Your care to place able and faith<g ref="char:EOLhyphen"/>ful Paſtors over people, where you have opportunity to do God this ſervice, and caſting honor and reſpect upon ſuch in theſe times, in which they are caſt down, and filled with contempt: Your great fidelity to your Country, and your many heroick vertues ſhining in you; Make it our duty (who are Miniſters of the Goſpel) to celebrate your due praiſes, for the honor of your noble deſervings, and the incouragement of o<g ref="char:EOLhyphen"/>thers to walk in your pious ſteps.</p>
+            <p>That your honor may be preſerved in ſafety in theſe ſad diviſions of the Kingdom, receive a daily increaſe of honor, and continue faithful to the death, that you may receive the crown of life; ſhall be the prayer, until death, of him, who is your Honors</p>
+            <closer>
+               <signed>Humble and Devoted Servant <hi>Ioſiah Church.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:161669:4"/>
+            <head>VI ARGUMENTS FOR THE BAPTIZING OF THE <hi>Infants of Chriſtians.</hi>
+            </head>
+            <div n="1" type="argument">
+               <head>
+                  <hi>ARGUMENT. I.</hi> The Infants of Chriſtians are rightly iudged in the promiſe of propriety in God, <hi>therefore</hi> they may be baptized.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE <hi>Antecedent</hi> I prove by ten Ar<g ref="char:EOLhyphen"/>guments.</p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>1</label> I. The Infants of the Jews (ſo long as they continued viſible profeſſors) were rightly judged to be in the Promiſe of propriety in God, for it was ſealed to them by the initiall Sacrament,<note place="margin">Gen. 17.7, 12</note> no leſſe then to actuall profeſſors: Therefore the Infants of Chriſtians are rightly judged to be in that promiſe.</p>
+               <p>The <hi>Conſequence</hi> I prove by four Arguments.</p>
+               <p>
+                  <hi>Argum.</hi> 1. That promiſe of proprietie in God was not a ſpe<g ref="char:EOLhyphen"/>cialtie: which I prove by ſeven Arguments.</p>
+               <p n="1">
+                  <pb n="2" facs="tcp:161669:5"/>1. It was not peculiar to <hi>Abraham</hi> and viſible profeſſors, for it was ſealed by the initiall Sacrament to the infants of ſuch: nei<g ref="char:EOLhyphen"/>ther was it peculiar to <hi>Abraham</hi> and his naturall ſeed, for it was ſealed by the initiall Sacrament to the infants of viſible profeſſors of the Gentiles, no leſs then to them; no difference was to be made; the ſtranger was as one home-born,<note place="margin">Exod. 12, 48, 49</note> and there was one Law for both. Nor yet was it peculiar to that Church-State, it being a Nationall Church. 1. Promiſes of proprietie in God are not to any in reference to a particular Church onely, either Nationall or Congregationall, but in reference to the Catholick Church to which they appertain. 2. Viſible profeſſors and their Infants were judged in that promiſe before the exiſtence of a Nationall Church. 3. Viſible profeſſors and their Infants which were of other Nations, were judged in that promiſe. 4, Since the diſſo<g ref="char:EOLhyphen"/>lution of that Church-State, Chriſtians are ſaid to be <hi>Children of the Promiſe</hi> after the manner of <hi>Iſaac,</hi>
+                  <note place="margin">Gal. 4.28</note> who was in that promiſe as an infant of beleeving Parents, before he was in it as an actuall beleever.</p>
+               <p n="2">2. That promiſe was a Catholick promiſe, the moſt eminent promiſe of the Covenant of Grace, which was a Catholick Co<g ref="char:EOLhyphen"/>venant, therefore it was no ſpecialty, but the bleſſing of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> which was to come on the Gentiles by Chriſt;<note place="margin">Gal. 3.14 Rom. 11.17 Rom. 15.8, 9</note> and the <hi>fat<g ref="char:EOLhyphen"/>neſs of the Olive tree</hi> in which they were to pertake, and the promiſe which Chriſt came to confirm, that the Gentiles might glorifie God for his mercy.</p>
+               <p n="3">3. Promiſes of proprietie in God are no ſpecialties, for God is a God to his in every age, upon the ſame terms during the Cove<g ref="char:EOLhyphen"/>nant, by which he gives proprietie in himſelf.</p>
+               <p n="4">4. That promiſe was given to <hi>Abraham</hi> as father of all the faithfull of every Nation,<note place="margin">Gen 17, 5.</note> and a publick perſon repreſenting them in every age, and not onely as father of the Jewiſh Nation onely, and therefore no ſpecialty.</p>
+               <p n="5">5. That promiſe was an everlaſting promiſe, and not to end with the diſpenſation and ſome temporarie promiſes of it.<note place="margin">Gen. 17.7.</note> 1. This is expreſly affirmed of it. 2. God is a God to his in every age upon the ſame terms,<note place="margin">Mal. 3.6</note> he changes not. 3. Viſible profeſſors and their Infants are alike in every age, and there is nothing in them <note place="margin">Iam. 1.17</note>inconſiſtent with proprietie in God in one age more than in ano<g ref="char:EOLhyphen"/>ther.
+<pb n="3" facs="tcp:161669:5"/> 4. That promiſe is not taken away by the comming of Chriſt, for ſince he finiſhed the work he came to do,<note place="margin">Rom. 11.28</note> the Apoſtle ſaith, <hi>the Children are beloved for the Fathers:</hi> and parents be<g ref="char:EOLhyphen"/>comming viſible profeſſors, their children were judged by the Apoſtles to be in the promiſe with them, and denominated holy,<note place="margin">Act. 2.39 1 Cor. 7.14 Eſa. 61.8, 9 Ier. 30.20</note> as aforetime: and it was propheſied, that when the Jews ſhall be <hi>graffed in again</hi> (which ſhall be by vertue of that promiſe) the off-ſpring ſhall be accounted bleſſed with the parent, and that the children ſhall be as aforetime.</p>
+               <p n="6">6. Though a <hi>priority</hi> in God may be yeelded to the Jews and their ſeed, yet a ſole <hi>propriety</hi> may not. The Jew was the elder ſiſter, and Chriſts firſt bride, and they had the firſt hand-ſell of Free-grace in a Church-way: but they and their ſeed never had the ſole propriety in God, Gentiles becomming viſible profeſſors did partake in it, and their Infants: whoſoever feared God,<note place="margin">Pſal. 128.1.3</note> his Children were Olive plants as well as theirs.</p>
+               <p n="7">7. The former part of that promiſe <hi>(I will be a God to thee)</hi> is undenyably common to all beleevers.</p>
+               <p>Therefore that Promiſe being not a ſpecialty, the Infants of Chriſtians are rightly judged to be in it, as the Infants of the Jews were: for Chriſtians and their Infants have the ſame privi<g ref="char:EOLhyphen"/>ledges, ſpecialties excepted.<note place="margin">Eph. 2.14</note> 1. The <hi>Partition wall</hi> is broken down, and they are made one. 2. The breaking off, was of in<g ref="char:EOLhyphen"/>corrigible Apoſtates and their ſeed, and not of viſible profeſſors and theirs: theſe ſuffered no loſſe by the breaking off.<note place="margin">Rom. 11.1 Eph. 4.</note> 3. Chriſti<g ref="char:EOLhyphen"/>ans have like precious faith, and their Infants are no more Infidels then theirs were. 4. Chriſtians in this diſpenſation are children of <hi>Abraham;</hi>
+                  <note place="margin">Luc. 19.9. 1 Pet. 3 Rom. 8.17</note> 
+                  <hi>Zacheus</hi> becomming a Chriſtian is called a <hi>ſon of Abraham,</hi> and Chriſtian women daughters of <hi>Sarah;</hi> and there<g ref="char:EOLhyphen"/>fore heirs of his priviledges which were not ſpecialties; <hi>in Abra<g ref="char:EOLhyphen"/>hami ſucceſsimus haereditatem, &amp; quae de illo dicta ſunt, in nobis &amp; liberis noſtris quadrant: Pet. Martyr.</hi> 5. Chriſtians are in this diſpenſation as Jews were in the former, they are called as they were, <hi>An holy Nation, a peculiar people,</hi>
+                  <note place="margin">1 Pet. 2.9 Tit. 2.14.</note> 
+                  <hi>a Royall prieſt<g ref="char:EOLhyphen"/>hood, &amp;c.</hi> And every Nation receiving the faith as the Nation of the Jews did, and in which there is a nationall agreement, in doctrine, worſhip, and diſcipline, as was in the Nation of the Jews, is to be accounted to the Lord in every age,<note place="margin">Pſal. 22.30</note> even <hi>Aegypt</hi> and <hi>Aſſyria</hi>
+                  <pb n="4" facs="tcp:161669:6"/> with <hi>Iſrael,</hi>
+                  <note place="margin">Iſai. 19.25 Gen. 17.5 <hi>Poſita cauſa ponitur Cauſa<g ref="char:EOLhyphen"/>tum.</hi>
+                  </note> and may call <hi>Abraham</hi> Father, (who obtained the <hi>father-hood of many Nations,</hi>) and may be accounted a natio<g ref="char:EOLhyphen"/>nall Church, no leſſe then that nation was. 6. That promiſe of proprietie in God was to <hi>Abraham</hi> and the Jews, as Beleevers; and promiſes to believers, <hi>as ſuch,</hi> (if they be not ſpecialties) ap<g ref="char:EOLhyphen"/>pertain to all beleevers as they do to any:<note place="margin">Ioſh. 1.5. Heb, 13, 5</note> The promiſe of Gods preſence with <hi>Joſhua,</hi> is applyed to all beleevers.</p>
+               <p>
+                  <hi>Argum.</hi> 2. As much love is manifeſted to the Infants of Chri<g ref="char:EOLhyphen"/>ſtians in this diſpenſation, as was to the Infants of Jews in the former; Chriſt in this diſpenſation became one of them; the Infants of Jews had the promiſe, and of Chriſtians, the performance: Chriſt on earth commanded the Infants of ſuch as honoured him to be brought to him, <hi>and with anger rebuked his Diſciples</hi> for deſpiſing the day of thoſe ſmall things, <hi>he imbraced them, bleſſed them,</hi>
+                  <note place="margin">Mark 10, 14, 16</note> affirmed that his <hi>kingdome was of them,</hi> numbred them with beleevers,<note place="margin">Mat. 18</note> and taught that his Angels were their Guardians, and admoniſhed thoſe of riper years to be like them in innocencie, humilitie,<note place="margin">Epheſ. 6.4</note> &amp;c. commanded by his Apoſtles that they ſhould be brought up in the nurture and admonition of the Lord, &amp;c.</p>
+               <p>Therefore it is not to be beleeved, that the promiſe of propriety in God is rent away from the Infants of viſible profeſſors, and that they are without God,<note place="margin">Eph. 2.12</note> and without hope in this diſpenſation, as the children of Infidels are.</p>
+               <p>
+                  <hi>Argum.</hi> 3. The Infants of Chriſtians are as capable of the pro<g ref="char:EOLhyphen"/>miſe of propriety in God as the Infants of the Jews were, theſe are no leſſe the ſeed of the bleſſed of the Lord then they were: and there is not a greater abſence of <hi>actuall faith</hi> and <hi>knowledge</hi> in theſe, then was in them, neither is there any thing to render them uncapable of it, which was not in Infants of Jews.</p>
+               <p>
+                  <hi>Argum.</hi> 4. The promiſe of proprietie in God hath no new conditions annexed: God required no leſs faith and repentance in the former diſpenſation then in the preſent; he indented with <hi>Abraham</hi> to <hi>walk before him and to be perfect,</hi>
+                  <note place="margin">Gen. 17.1, 7</note> that he might be <hi>a God to him and to his ſeed:</hi> and <hi>Circumciſion,</hi> the initiall ſeal of that promiſe,<note place="margin">Rom. 4.11</note> is called the <hi>ſeal of the righteouſneſs of faith:</hi> and they that were viſible unbeleevers,<note place="margin">Iſai. 1.10</note> though Jews, were no more accounted of then <hi>Sodomites</hi> and aliens.</p>
+               <p>Therefore the Infants of Chriſtians being certainly no leſſe in
+<pb n="5" facs="tcp:161669:6"/> that promiſe then were the Infants of Jews aforetime, they are rightly judged to be in it as they were.</p>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>2</label> II. The Infants of Converts of the Gentiles, in the former diſpen<g ref="char:EOLhyphen"/>ſation, were rightly judged to be in the promiſe of propriety in God, for it was ſealed to them by the initiall Sacrament, and the <hi>ſtranger was as one born in the Land:</hi>
+                  <note place="margin">Exod. 12, 48, 49</note> Therefore the Infants of Chriſtians are rightly judged to be in that promiſe. 1. The brea<g ref="char:EOLhyphen"/>king off was of Jews and not of Gentiles.<note place="margin">Rom. 11.21</note> 2. Chriſt by his com<g ref="char:EOLhyphen"/>ming ſpoyled not the off-ſpring of his people of any happineſs in<g ref="char:EOLhyphen"/>joyed before, the off-ſpring being as innocent as before. It is not to be imagined that their condition is worſe ſince his coming: <hi>Num post Chriſtum, factam eſſe deteriorem parvulorum ſortem exiſtimemus?</hi> Whitak. Cont. Durae. p. 681. His loving imbra<g ref="char:EOLhyphen"/>cing and bleſſing ſuch, witneſs for him:<note place="margin">Pſal. 55.21</note> he is not like <hi>Davids</hi> friend, having words as ſmooth as butter, and war in his heart. 3. The renting away that promiſe from the Infants of viſible profeſſors, (there being no new degeneration in that ſpecies) argues a diminution of the grace of God, which cannot be imagined without execrable blaſphemy. 4. As inlargement of priviledges to Infants of viſible profeſſors is moſt congruous to the preſent diſpenſation, ſo it is moſt probable;<note place="margin">Ezra 10, 1, 44</note> for afore-time if one parent were an infidel, the children were not rightly accoun<g ref="char:EOLhyphen"/>ted to the Lords people: but ſince the preſent diſpenſation began, if one Parent were a viſible profeſſor,<note place="margin">1 Cor. 7.14</note> the children were <hi>holy</hi> though the other Parent were an Infidell. 5. If in this diſpenſa<g ref="char:EOLhyphen"/>tion children of Chriſtians are not to be accounted in that promiſe, they are in a far more uncomfortable condition then the children of viſible profeſſors in the former; and it was much better to be born under the Law then under the Goſpel, which is contrary to the common doctrine of the Scriptures.</p>
+               <p n="3">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>3</label> III. <hi>Jews</hi> becoming Chriſtians in this diſpenſation, their infants are rightly judged to be in the promiſe of propriety in God. 1. The Apoſtles judged the children of their Converts (who were moſt <hi>Jews</hi>) in that promiſe with their Parents.<note place="margin">Act. 2.39</note> 2. It was propheſied, That when the <hi>Iews</hi> ſhould be converted, and be as aforetime, that their children ſhould be as aforetime.<note place="margin">Ier. 30.20</note> 3. The breaking off was not univerſal, the tree was not broken down,<note place="margin">Rom. 11, 17</note> but only ſome branches were broken off.</p>
+               <pb n="6" facs="tcp:161669:7"/>
+               <p>Therefore the infants of Chriſtians are rightly judged to be in that promiſe;<note place="margin">Rom. 10.12</note> for as there was no difference in the former diſpen<g ref="char:EOLhyphen"/>ſation, between <hi>Iews</hi> and <hi>Proſelites,</hi> and the ſeed of either, ſo there is no difference in the preſent.</p>
+               <p n="4">
+                  <note place="margin">Acts 2.39</note>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>4</label> IIII. The Apoſtles judged the children of thoſe which became Chriſtians, in the promiſe with their parents; therefore the chil<g ref="char:EOLhyphen"/>dren of Chriſtians are rightly judged to be in the promiſe.</p>
+               <p>The promiſe in which they judged them, is that of propriety in God, taken in the ſenſe in which it was given to <hi>Abraham:</hi> which was, that he would be a God to him and his natural ſeed, great and ſmall, and to viſible profeſſors, and their natural ſeed of every nation, in regard of external adoption and priviledges, ſo long as thoſe of riper years did cleave to him by a viſible profeſſion: alſo, to him and the elect, great and ſmall (which are properly the ſeed of his faith,) in regard of ſaving graces, and eternal life. That this is the ſenſe of that promiſe, experience and right reaſon teach; for the <hi>Jews</hi> were not, neither are a people making a viſible profeſſi<g ref="char:EOLhyphen"/>on broken off, until a general deſperate Apoſtacy in thoſe of riper years; and we know that the elect, both great and ſmall, obtain grace and glory.</p>
+               <p>The promiſe is not only of extraordinary gifts.</p>
+               <p n="1">1. The promiſe is mentioned to Miniſter unto them hopes of ſalvation, to ſtay them from the pit of deſpair, into which their re<g ref="char:EOLhyphen"/>jecting and crucifying Chriſt was like to praecipitate them: it had been a vain thing to mention a promiſe of extraordinary gifts for that end, becauſe extraordinary gifts are common to them that periſh,<note place="margin">Mat. 7.22, 23</note> and are not ſaving gifts. 2. The promiſe, mentioned ap<g ref="char:EOLhyphen"/>pertained to all called, and to be called by the Goſpel; but extra<g ref="char:EOLhyphen"/>ordinary gifts were given but to ſome, and in the firſt times. 3. The promiſe included the children, to which extraordinary gifts are of all moſt impoſſible. 4. The promiſe, with their relation to it, is the only Argument uſed for receiving Baptiſm, which ex<g ref="char:EOLhyphen"/>traordinary gifts are leaſt Argumentative for, being the leaſt mat<g ref="char:EOLhyphen"/>ter ſignified by it; alſo for repentance, to which ſuch gifts are weak motives,<note place="margin">Mat. 7.22, 23</note> for theſe may be in <hi>workers of Iniquitie.</hi> By children infants are neceſſarily meant. 1. The word is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which pri<g ref="char:EOLhyphen"/>marily ſignifies <hi>infants.</hi> 2. Theſe of riper years are comprehend<g ref="char:EOLhyphen"/>ed in thoſe words <hi>(the promiſe is to you)</hi> for they ſpeak them to
+<pb n="7" facs="tcp:161669:7"/> all that <hi>were pricked in their hearts.</hi> 3. The <hi>children</hi> are men<g ref="char:EOLhyphen"/>tioned as a diſtinct party from them that were <hi>called,</hi> and them that were after to be called, who are ſaid to be <hi>afar off,</hi>
+                  <note place="margin">Epheſ. 2.13</note> which the Scripture ſpeaks not of infants of viſible profeſſors. 4. The re<g ref="char:EOLhyphen"/>ſtriction of the promiſe to children of riper years called, excludes all infants of Chriſtians, dying in infancy, from intereſt in God, and hope of ſalvation,<note place="margin">Epheſ. 2.12</note> which extends no further then the promiſe 5. It undermines the priviledg which infants of Chriſtians have a<g ref="char:EOLhyphen"/>bove the infants of Infidels, according to the common doctrine of the Scripture, for the promiſe is to their children called by the Goſpel. 6. Moſt, to whom the Apoſtles ſpake, were <hi>Jews,</hi> whoſe infants had always been rightly judged in the promiſe. 7. They that reſtrain the promiſe to children of riper years, muſt prove that thoſe thouſands of Converts had no infants, and that their children were all actually called, and none of them viſible re<g ref="char:EOLhyphen"/>jectors of Chriſt (which might probably be in ſo great a multi<g ref="char:EOLhyphen"/>tude of children,) elſe it will be difficult to excuſe the Apoſtle from too great boldneſs in affirming an actual being of the pro<g ref="char:EOLhyphen"/>miſe to the children, as to the Parents, without exception.</p>
+               <p n="5">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>5</label> V. The children of Chriſtians are denominated <hi>holy</hi> in this diſ<g ref="char:EOLhyphen"/>penſation, therefore they are rightly judged to be in the promiſe;<note place="margin">1 Cor. 7, 14</note> for they are denominated holy, becauſe they are included in the Covenant; <hi>Sancti dicuntur quia foedere includuntur.</hi>
+                  <note place="margin">Ameſ. Bellar. Enerv.</note>
+               </p>
+               <p n="1">1. <hi>Holineſs of Regeneration,</hi> is rightly judged in ſuch infants. 1. Becauſe the promiſe of Circumciſion of the heart is to viſible profeſſors, and their ſeed, alike. 2. Chriſtians ought to hope,<note place="margin">Deut. 30, 6 1 Theſ. 4.13</note> that their infants dying are ſaved, which they cannot without judging them Regenerate,<note place="margin">Iohn 3, 5</note> for none <hi>unregenerate can ſee the Kingdom of God,</hi> and none ordained to ſalvation are called out of this life which are not firſt ſanctified: <hi>Nemo electorum è praeſenti vita evocatur qui non prius ſanctificatur,</hi>
+                  <note place="margin">Rom. 8, 30</note> 
+                  <hi>Calv.</hi> 3. Infancy is no let of ſanctification: Infants are as capable of the habits of ſancti<g ref="char:EOLhyphen"/>ty as men; if <hi>Adam</hi> had not ſinned, they ſhould have been holy, in, and from the womb by original juſtice; and grace may be infu<g ref="char:EOLhyphen"/>ſed into them, as well as original juſtice might have been propa<g ref="char:EOLhyphen"/>gated to them. It is queſtionleſs, that many ſuch infants are Re<g ref="char:EOLhyphen"/>generate, therefore we muſt charitably ſuppoſe it of every indivi<g ref="char:EOLhyphen"/>dual; for when we come to particulars, which dare we exclude,
+<pb n="8" facs="tcp:161669:8"/> there being no viſible difference? He is too hardy that dares paſs his peremptory cenſure of this or that particular, that it is unrege<g ref="char:EOLhyphen"/>nerate.</p>
+               <p n="2">2. A <hi>relative holineſs</hi> is rightly concluded of all ſuch infants; <hi>in relatione ad deum ſancti ſunt, Ameſ.</hi> Which is a priviledg ſome injoy which are not Regenerate, untill a deſperate Apoſtacy deprive them of it; they are accounted to the Lords people, and have viſible Communion with the elect in all priviledges which are not peculiar to them.</p>
+               <p>This two-fold <hi>holineſs</hi> is meant where <hi>Iſrael</hi> is ſaid to be <hi>an holy people,</hi>
+                  <note place="margin">Deut. 14, 2 Ier. 2, 3</note> and <hi>holineſs to the Lord:</hi> Some, which were not Regenerate, were the Lords in the face of the viſible Church, <hi>in facie Eccleſiae viſibilis.</hi>
+                  <note place="margin">1 Cor. 7, 14</note> Alſo by the Apoſtle, denominating chil<g ref="char:EOLhyphen"/>dren of Chriſtians <hi>holy,</hi> who judges of ſuch, as the children of viſible profeſſors were judged of aforetime, which were called <hi>an holy ſeed,</hi>
+                  <note place="margin">Ezra 10, 2 Eſa. 22, 24</note> and compared to the veſſels of ſmall quantity in the Temple, which were no leſs accounted holy then veſſels of greater quantity.</p>
+               <p n="3">3. <hi>Actual holineſs</hi> (required in thoſe of riper years) is in ſuch infants only <hi>potentially:</hi> It is not neceſſary to their being <hi>foede<g ref="char:EOLhyphen"/>rally holy</hi> (it being impoſſible in them, <hi>nemo tenetur ad impoſſi<g ref="char:EOLhyphen"/>bile</hi>) and therefore not to the judging them <hi>foederally holy.</hi>
+               </p>
+               <p>Object. <hi>The Apoſtle means only a matrimoniall holineſs, which is legitimation; and the ſenſe is, the Infidel is ſanctified in the Chriſtian by marriage, and the copulation is not adulterous, for the children are not baſtards but legitimate.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer,</hi> The Apoſtle means a <hi>foederall holineſs,</hi> and not a <hi>legi<g ref="char:EOLhyphen"/>timation</hi> only, which I prove by ſix Arguments.</p>
+               <p>
+                  <hi>Argum.</hi> 1. It is evident by the common doctrine of the Apo<g ref="char:EOLhyphen"/>ſtle, that he judged the children of Chriſtians <hi>holy,</hi> otherwiſe then by a matrimonial holineſs only, which is common to the chil<g ref="char:EOLhyphen"/>dren of Infidels: He taught, that the bleſſing of <hi>Abraham</hi> was to come on the Gentiles by Chriſt,<note place="margin">Gal. 3, 14</note> of which a principal part muſt be that propriety in God given to him and his ſeed, by the Cove<g ref="char:EOLhyphen"/>nant,<note place="margin">Rom. 11, 16</note> that the Chriſtian Gentiles were graffed in for <hi>Jews</hi> broken off,<note place="margin">Gal. 4, 28</note> and did <hi>partake of the root and fatneſs of the olive tree,</hi> as they did; that Chriſtians were <hi>children of the promiſe after the manner of Iſaac;</hi>
+                  <note place="margin">Eph. 2, 14</note> that the partition wall was broken down; that
+<pb n="9" facs="tcp:161669:8"/> the breaking off was not of <hi>Gentiles,</hi> but of <hi>Jews,</hi>
+                  <note place="margin">Rom. 11.17. Rom. 11 28.</note> and but of ſome of them: that the children are beloved for the fathers: That there is the ſame faith in Chriſtians that was in <hi>Abraham,</hi> and viſible profeſſors aforetime, which was the condition obliga<g ref="char:EOLhyphen"/>tory of the promiſe of propriety in God: That the main promi<g ref="char:EOLhyphen"/>ſes in the former diſpenſation were confirmed by Chriſt,<note place="margin">Rom. 13.8, 9.</note> that the <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>entiles</hi> might glorifie God for his mercy, (of which the moſt eminent was the promiſe of propriety in God including infants:) That children were in the promiſe with their parents:<note place="margin">Acts 2.39. Galat. 2.14</note> That there was an actual difference between the people of God, and aliens, from the birth, &amp;c.</p>
+               <p>
+                  <hi>Therefore</hi> he meant a <hi>foederal holineſs,</hi> and not a <hi>matrimonial</hi> only.</p>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>2</label> II. By <hi>Sanctification</hi> of the Infidel in the Chriſtian, is not meant a <hi>legitimation</hi> only, that they might live together in marriage without imputation of adultery. For, 1. The <hi>Infidel</hi> is mentioned as meerly <hi>paſſive,</hi> is ſaid <hi>to be ſanctified,</hi> and not <hi>to ſanctifie;</hi> if only a legitimation by marriage be meant, the Chri<g ref="char:EOLhyphen"/>ſtian is ſanctified in the Infidel, no leſs then the Infidel in the Chriſtian. 2. If <hi>legitimation</hi> only be meant, the term <hi>Infidel</hi> is impertinently ſo often mentioned, which relates not to marriage. 3. By <hi>ſanctification</hi> of the creatures by the word and prayer,<note place="margin">1 Timothy.</note> a <hi>legitimation</hi> of them only, is not meant, that a Chriſtian may poſſeſs and uſe them without imputation of theft and robbery: For Infidels, which neglect that means of <hi>ſanctification,</hi> have a legal right to them, (as a matrimonal right to their yoak fellows) yet <hi>all things are impure to them,</hi> even the uſe of marriage,<note place="margin">Titus 1 16.</note> though it be not adulterous: <hi>Matrimonia infidelium impura ut alia omnia opera, non naturâ operum, ſed vitio authorum: Pet. Martyr:</hi> Therefore by the <hi>holineſs</hi> of the children is not meant <hi>legitimation</hi> only.</p>
+               <p n="3">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>3</label> III. By <hi>unclean,</hi> are not meant only baſtards: The Scrip<g ref="char:EOLhyphen"/>ture denominates adulterous, <hi>unclean,</hi> but not baſtards, whoſe parents are not Infidels: Such as want <hi>foederal holineſs,</hi>
+                  <note place="margin">Iſaiah 52.1.2 Eccleſ. 9.2.</note> it denominates <hi>unclean,</hi> which it denies not of baſtards; the Co<g ref="char:EOLhyphen"/>venant was ſealed to them by the initial ſeal aforetime, and they were accounted to the Church, though they were not advanced to offices in it.</p>
+               <pb n="10" facs="tcp:161669:9"/>
+               <p>
+                  <note place="margin">Deut. 23.1, 3</note>
+                  <hi>Objection: Baſtards were numbered with the unclean, as Moabites, Ammonites, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer:</hi> 1. Chriſt numbers Infants with Beleevers, yet Ana<g ref="char:EOLhyphen"/>baptiſts allow them not the denomination of Beleevers.<note place="margin">Mat. 18.</note> 2. Ba<g ref="char:EOLhyphen"/>ſtards, in the place mentioned, are numbered with thoſe which want <hi>foederal holineſs,</hi> as <hi>Moabites,</hi> &amp;c. If for this they are de<g ref="char:EOLhyphen"/>nominated <hi>unclean,</hi> by <hi>unclean</hi> is meant <hi>wanting foederal holi<g ref="char:EOLhyphen"/>neſs,</hi> and then by <hi>holy,</hi> muſt be meant <hi>having foederal holineſs.</hi> 3. The oppoſition of things in Scripture doth not always bring thoſe things under one denomination.<note place="margin">Acts 15.20</note> 
+                  <hi>Fornication, Idolatry, and things ſtrangled, and blood</hi> are numbered together, yet For<g ref="char:EOLhyphen"/>nication and Idolatry are not to be denominated <hi>indifferent,</hi> nor things ſtrangled, and blood <hi>ſinful.</hi>
+               </p>
+               <p>And if by <hi>unclean,</hi> are not meant only baſtards, by <hi>holy,</hi> are not meant only legitimate.</p>
+               <p n="4">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>4</label> IIII. The Scripture denominates not any <hi>holy,</hi> for legiti<g ref="char:EOLhyphen"/>mation only;<note place="margin">Iſaiah 52.1.2 Eccleſ. 9.2 Tit. 1 15 Mat. 15 26</note> but all that have not beſides it <hi>foederal holineſs</hi> it denominates <hi>unclean,</hi> yea <hi>dogs:</hi> Therefore the Apoſtle deno<g ref="char:EOLhyphen"/>minates not children <hi>holy,</hi> for legitimation only.</p>
+               <p n="5">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>5</label> V. Interpreting <hi>holineſs</hi> to be legitimation only, renders the Apoſtle an underminer of the priviledg, which the chil<g ref="char:EOLhyphen"/>dren of Chriſtians have above the children of Infidels, from the time of the birth,<note place="margin">Iſaiah 61.8 9</note> and which they ought to be acknowledged to have, and a giver of no more to the one then to the other, for children of Infidels, born in marriage, are <hi>matrimonially holy; Hac ratione nihil plus tribueret liberis fidelium quam infideli<g ref="char:EOLhyphen"/>um.</hi> Ameſ. <hi>Infidelium filij ſi ex matrimonio procreentur, le<g ref="char:EOLhyphen"/>gitimi ſunt:</hi> Pet. Martyr.</p>
+               <p>But the Apoſtle was no under-miner of the priviledges of the faithful, or of their ſeed; therefore he meant not legitimation only.</p>
+               <p n="6">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>6</label> VI. If by <hi>holineſs</hi> is meant legitimation only, the Apoſtle was miſtaken about the queſtion propoſed, which was not, whether their living together were not adulterous, they being married each to other. For, 1. Such a doubt could not ariſe in any, having any uſe of reaſon; all know, that living in marriage is not living in adultery, and that children begotten in marriage are not baſtards. 2. It is granted (by thoſe that interpret the <hi>holineſs</hi>
+                  <pb n="11" facs="tcp:161669:9"/> to be legitimation only) that they believed that their children were not baſtards, how then could they doubt, that their living in marriage together was adulterous? It is eaſier for a Chriſtian married with an Infidel, to be aſſured that the Infidel is his wife, then to know that the children that he hath by her are his chil<g ref="char:EOLhyphen"/>dren.</p>
+               <p>The Queſtion was, <hi>Whether a Chriſtian might, with a ſafe conſcience, have ſuch intimate familiarity with an Infidel, as living together in marriage required, the Infidel being a profeſ<g ref="char:EOLhyphen"/>ſed enemy of Christianity:</hi> For this was dangerous for the Chri<g ref="char:EOLhyphen"/>ſtian, and ſeemingly inconſiſtent with precepts given to Chriſti<g ref="char:EOLhyphen"/>ans to have no familiarity with Idolaters, but to ſeperate from them, yea from ſcandalous Chriſtians, though orthodox, with whom familiarity might ſeem in that regard more tolerable.</p>
+               <p>The anſwer is, The Chriſtian having a lawful calling (being in marriage with the Infidel) might continue with the Infidel: for the Chriſtian had this priviledg by faith, and the Covenants, that he or ſhe (in this caſe) ſhould not be infidellized by the Infidel, but preſerved; yea the Infidel was (in ſome ſort) ſan<g ref="char:EOLhyphen"/>ctified in the Chriſtian, for the children born of them were not Infidels but Chriſtians, as aforetime the children of <hi>Jews</hi> were <hi>Jews,</hi> and not Heathens.</p>
+               <p>If the anſwer were, that the Chriſtian might live with the In<g ref="char:EOLhyphen"/>fidel, becauſe the Infidel is legitimate by marriage, elſe the chil<g ref="char:EOLhyphen"/>dren were baſtards, &amp;c. and nothing elſe were intended: it had been no more, then that a Chriſtian might live with an Infidel, as one Infidel with another, and familiarity with Idolaters may be ſinful in Chriſtians, and pernicious to them, though no adul<g ref="char:EOLhyphen"/>tery be committed. Such interpreters make the Apoſtle <hi>ſecta<g ref="char:EOLhyphen"/>ri minutias.</hi>
+               </p>
+               <p>Object. <hi>If foederal holineſs be meant, and the Sanctification of the Infidel in the Chriſtian, be a conſequent of faith and the Covenant, then a believing adulterer may live with an In<g ref="char:EOLhyphen"/>fidel adultereſs: For where the cauſe of ſanctification is, the effect will follow:</hi> Poſita cauſa ponitur effectum.</p>
+               <p>
+                  <hi>Anſwer:</hi> 1. This inference hath no proportion to the caſe a<g ref="char:EOLhyphen"/>bout which the Apoſtle ſpeaks; which was the caſe of a Chri<g ref="char:EOLhyphen"/>ſtian in marriage with an Infidel, which was in thoſe times com<g ref="char:EOLhyphen"/>mon,
+<pb n="12" facs="tcp:161669:10"/> one imbracing Chriſtianity, and the other continuing in infi<g ref="char:EOLhyphen"/>delity. If a Queſtion had been propounded, whether a believing A<g ref="char:EOLhyphen"/>dulterer might live with an Infidel Adultereſs, he would have an<g ref="char:EOLhyphen"/>ſwered, <hi>ſilentio et contemptu.</hi> 2. He meant not, that faith and the Covenant excluſively were the cauſe of the <hi>ſanctification</hi> of the Infidel in the Chriſtian:<note place="margin">1 Tim. 4.4</note> As where he ſaith, <hi>every creature of God is good if it be received with thankſgiving, &amp;c.</hi> He means not, that it is good without a <hi>legal right</hi> to it, though it be re<g ref="char:EOLhyphen"/>ceived with thankſgiving (which is uſual in thieves and robbers) but in the caſe of <hi>civil right</hi> only:<note place="margin">Zech. 11.3</note> One cauſe produceth not the effect, <hi>una cauſa non producit effectum.</hi> 3. It ſuppoſes a believing Adulterer living with an Infidel Adultereſs, which is not to be ſuppoſed: for a beleever may fall into that ſin, but li<g ref="char:EOLhyphen"/>ving in it is inconſiſtent with faith,<note place="margin">Acts 15 9.</note> which purifies the heart: with Eccleſiaſtical Diſcipline, which, if deſpiſed, the deſpiſer is to be accounted an <hi>Heathen,</hi>
+                  <note place="margin">Mat. 18.17 Job 31.11</note> and not a Chriſtian: and with civil Laws, for it is an <hi>heynous crime to be puniſhed by the Judges.</hi> And if a defect of theſe happen, the <hi>Word</hi> of <hi>God</hi> (which <hi>ſhall judg men at the laſt day</hi>) judgeth ſuch to be without,<note place="margin">Rev. 22.15</note> and ſuch are to be accounted Infidels, no l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs then the Infidels with whom they ſo impurely live.</p>
+               <p n="6">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>6</label> VI. God never made a viſible partition wall between the Pa<g ref="char:EOLhyphen"/>rent and the Infant: In the firſt Covenant (which was of works) the parent and the infant were comprehended alike; and the ſe<g ref="char:EOLhyphen"/>cond (which was of grace) was in this,<note place="margin">Gen. 17.7</note> like the former, the ſeed was named with the parent in the moſt eminent promiſe of it; and the infants of viſible profeſſors had it ſealed to them by the initial Sacrament, ſo ſoon as ſeals were added to it; and in the preſent diſpenſation of it,<note place="margin">Acts 2.39 1 Cor. 7.14</note> the Apoſtles judged the pa<g ref="char:EOLhyphen"/>rents and the children alike in it, and Chriſtians in their days doubted not of the <hi>holineſs</hi> of their children; and it is the doctrine of the Scripture, that the off-ſpring is bleſſed with the parent,<note place="margin">Iſaiah 61.8.9</note> and ſo to be accounted of all, until a viſible breaking off for Apoſtacy, in thoſe of riper years: <hi>In adultis incipit omne malum.</hi>
+               </p>
+               <p>Alſo, when, for a violation of Covenant, by thoſe of riper years, there hath been a viſible breaking off; the manner hath been to reject the infant with the parent.</p>
+               <pb n="13" facs="tcp:161669:10"/>
+               <p>
+                  <hi>Adam,</hi> and his were rejected alike for violation of the firſt Covenant, and the <hi>Jews,</hi> and theirs, for the tranſgreſſion of the ſecond: Therefore the infants are rightly judged in the promiſe with their parents.</p>
+               <p n="7">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>7</label> VII. Threatnings extend to infants of Covenant-breakers;<note place="margin">Iſaiah 13 18 Iob 20.19 Exodus 20.5 Hoſea 2 4. c. 9.16. c 13 16 Ezekiel 9 6 Pſalm 109 Deut. 7.9 Pſa. 103 17.18</note> to the fruits of their womb, with their children of riper years: Therefore the promiſes are rightly judged to extend to infants of ſuch as continue in the Covenant: for the Scripture holds forth the goodneſs of God, to be of greater extent to them which keep his Covenant, and theirs, then his ſeverity againſt them that break his Covenant, and theirs. It witneſſes, that he <hi>viſits the iniqui<g ref="char:EOLhyphen"/>ty of the fathers (which hate him) upon the children unto the third and fourth generation,</hi> and that he <hi>keeps Covenant and mercy with them that love him to a thouſand generations,</hi> and that he kept Covenant and mercy with the people of <hi>Iſrael,</hi> and theirs, until thoſe of riper years, of them, became incurable haters of him, and would have done it for ever if they had continued in his Covenant, for <hi>he is ever mindful of his Covenant.</hi>
+                  <note place="margin">Pſalm 111 5</note>
+               </p>
+               <p>Object. 1. <hi>By generations and children, infants are not meant, but children of riper years, loving God, and keeping his Com<g ref="char:EOLhyphen"/>mandments.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> The infants of ſuch are neceſſarily meant. For, 1. Thoſe terms include infants. 2. In the places mentioned they are oppo<g ref="char:EOLhyphen"/>ſed to parents, and diſtinct from thoſe that viſibly <hi>love God, and keep his Commandments.</hi> 3. Excluding infants overturns the ſalvation of the infants of Gods people, which is by vertue of ſuch promiſes, and leaves them actually as hopeleſs as the infants of In<g ref="char:EOLhyphen"/>fidels, and enervates the compariſon of Gods goodneſs, with his ſeverity, for the magnifying of it. 4. If only thoſe of riper years be meant viſibly loving God, and keeping his Commandments, the ſenſe is, <hi>his mercy is from everlaſting to everlaſting, to them that fear him, and to them that fear him,</hi> which is nugatory. 5. He ſhews mercy to children of Infidels,<note place="margin">Ezek<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>el 18.</note> which coming to riper years, viſibly love him. 6. By children in the other part of the <hi>Antitheſis,</hi> he means, infants, and not only ſuch as coming to riper years hate him viſibly, as their fathers. For, 1. God puniſhes viſible Idolators, not only to the third and fourth generation, but for e<g ref="char:EOLhyphen"/>ver: <hi>Quis neſcit deum viſitaturum impiam generationem,
+<pb n="14" facs="tcp:161669:11"/> impiorum patrum in perpetuum.</hi> Rivet. in decal. 2. God vi<g ref="char:EOLhyphen"/>ſits their own ſin upon them. 3. Experience teaches that God puniſhes the generations of Idolaters great and ſmall, by ta<g ref="char:EOLhyphen"/>king away the means of grace, and caſting them out of his ſight, therefore Infants are meant in the latter part of the Antitheſis.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>2</label> 
+                  <hi>God ſometimes caſts away the children of the godly, and ſhews mercy to children of wicked men, he hath reſerved a libertie to himſelf, and hath mercy on whom he will, and whom he will he hardens:</hi>
+                  <note place="margin">Rom. 9 18.</note> 
+                  <hi>Deus ſervat libertatem in judiciis, &amp; bonorum di<g ref="char:EOLhyphen"/>ſtributione.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 
+                  <note place="margin">Loquitu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> de ijs quae ut pluri<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>um a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cidunt, <hi>Rivet.</hi>
+                  </note>The libertie reſerved by God is not to be inquired into by us: the Scripture is the rule by which we muſt walk, which ſpeaks in ſuch places as it uſually falls out: We ought to judge the ge<g ref="char:EOLhyphen"/>nerations of Idolaters mentioned great and ſmall to be thoſe on whom God will <hi>viſit the iniquitie of the Fathers:</hi> and the children of <hi>thoſe that keep the Covenant</hi> to be thoſe that God <hi>will ſhew mercy to,</hi> ſo long as thoſe of riper years cleave to the Lord by a viſible profeſſion: and if it happen otherwiſe to any individuall of either, it is to us <hi>anomalous,</hi> and we ought not to make rules of accidents: As in a caſe not unlike: the Scripture ſaith that the <hi>Evil doers ſhal be cut off,</hi>
+                  <note place="margin">Pſalm 37.9.</note> 
+                  <hi>and that they which waite on the Lord ſhal inherit the earth:</hi> It ſometimes happens otherwiſe to ſome individuals: yet we ought to judge that the wicked ſhall be cut off and that the righteous ſhall inherit the earth.<note place="margin">Eccleſ. 7.15.</note> 
+                  <hi>Solomon</hi> obſerved that ſometime <hi>a juſt man periſhed in his righteouſneſs, and a wicked man prolonged his dayes in his wickedneſs:</hi>
+                  <note place="margin">Prov. 2.21, 22</note> yet he judged that the <hi>upright ſhould dwel in the Land,</hi> and that <hi>the wicked ſhould be cut-off,</hi> and <hi>tranſgreſſors rooted out.</hi>
+               </p>
+               <p n="8">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>8</label> VIII. The ſeed of viſible profeſſors (in which term infants are in<g ref="char:EOLhyphen"/>cluded,) is expreſſed in the moſt eminent promiſes, as viſible pro<g ref="char:EOLhyphen"/>feſſors are without limitations and reſtrictions: therefore the one is as rightly judged to be in the promiſe as the other.</p>
+               <p>
+                  <hi>Inſt.</hi> 1. The ſeed is named in the promiſe of propriety in God given to <hi>Abraham (the great Father of the Faithful)</hi> as well as himſelf (in which promiſe it is certain Infants were meant;) which promiſe was the moſt eminent of the Catholick Covenant
+<pb n="15" facs="tcp:161669:11"/> of grace, greater than which there was none; it may be compared to the great tree which <hi>Nabuchadnezzer</hi> ſaw in a Viſion,<note place="margin">Dan. 4.11.12 Deut. 30.6. &amp; 28.4.</note> whoſe <hi>top reached to Heaven, and fruit was much:</hi> all other promiſes are branches of it.</p>
+               <p>
+                  <hi>Inst.</hi> 2.<note place="margin">Pſalm 37.26. Pſalm 112.2. Job 5.25. Prov. 20 7. Pſalm 1.2.28 Pſalm 12<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.3. Pro: 14.26. &amp;c. Deut 5.29.</note> The ſeed of viſible profeſſors is named in the promiſes of Circumciſion of the heart, of Gods bleſſing, &amp;c. as viſible pro<g ref="char:EOLhyphen"/>feſſors are; and men are exhorted to love of righteouſneſs, <hi>that their children may be bleſſed, and that it may be well with them.</hi>
+               </p>
+               <p>Object. <hi>By ſeed, infants are not meant, but children coming to riper years, making a viſible profeſſion.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Infants are meant in the term ſeed. For, 1. Thoſe promiſes were ſealed aforetime to infants by the initial Sacrament, as well as to viſible profeſſors. 2. Infants are more properly the ſeed. 3. The ſeed is mentioned as diſtinct, in thoſe promiſes, from thoſe of riper years, making a viſible profeſſion. 4. Excluding infants is incon<g ref="char:EOLhyphen"/>ſiſtent with the manifold reſtriction of thoſe promiſes to the ſeed of the faithful, and it throws down to hell all the infants of Gods people,<note place="margin">Epheſ. 2.12.</note> for they that are <hi>ſtrangers from the Covenant</hi> are <hi>with<g ref="char:EOLhyphen"/>out hope.</hi>
+               </p>
+               <p n="9">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>9</label> IX. Chriſtians may hope, that their children, dying in infancy, are ſaved. <hi>David</hi> hoped, that his infant dying (though illegiti<g ref="char:EOLhyphen"/>mate) was ſaved,<note place="margin">2 Sam. 12.13. 1 Theſ. 4.13.</note> for he comforted himſelf with hopes of <hi>going to him,</hi> and Chriſtians ought not to <hi>mourn for their dead, as In<g ref="char:EOLhyphen"/>fidels (who are without hope)</hi> mourn for theirs: <hi>Nos certo ſcimus ex mente dei revelata non debere de ſuis mortuis contri<g ref="char:EOLhyphen"/>ſtari ſicut ethnici qui ſpem non habent:</hi> Ameſ. Therefore the infants of ſuch are rightly judged to be in the promiſe, for this judgment is the foundation of Chriſtian hope, which is not a meer Conjectural expectation without a promiſe, but an expe<g ref="char:EOLhyphen"/>ctation of a future promiſed good.<note place="margin">Epheſ. 2.12. 1 Theſ. 4.13. Mat 13 26.</note> 
+                  <hi>Objectum ſpei eſt bonum fu<g ref="char:EOLhyphen"/>turum promiſſum.</hi> Ameſ. medul. and there is no hope of them that are viſibly out of the promiſe, ſuch are to be judged <hi>doggs,</hi> which <hi>ſhall be without,</hi>
+               </p>
+               <p n="10">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>10</label> X. The ſeed of viſible profeſſors ought to be accounted a ſeed bleſſed of the Lord;<note place="margin">Iſaiah 61.8 9. Pſalm 143 13.</note> therefore they are rightly judged in the pro<g ref="char:EOLhyphen"/>miſe of propriety in God, in which bleſſedneſs conſiſts.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>1</label> 
+                  <hi>There is not in ſuch infants actual faith, nor ſhews of divine grace; therefore they cannot be rightly judged in the promiſe,
+<pb n="16" facs="tcp:161669:12"/> there being no ground for a judgment of charity of them, which is a judging the beſt, that the words and works of any may be in<g ref="char:EOLhyphen"/>terpreted, to ſignifie.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 
+                  <hi>Actual faith, and ſhews of grace</hi> are neceſſary in all of riper years, for a right judging them in the promiſe, but not in ſuch in<g ref="char:EOLhyphen"/>fants. For, 1. If <hi>Adam</hi> had not ſinned, infants had been viſibly in the Covenant without <hi>actual faith,</hi> and <hi>ſhews of grace.</hi> 2. Infants of viſible profeſſors in the former diſpenſation were rightly judged in the promiſe without <hi>actual faith,</hi> and <hi>ſhews of grace,</hi> though not any of riper years. 3. <hi>Actu<g ref="char:EOLhyphen"/>al faith</hi> is not neceſſary to the being of ſuch infants in the pro<g ref="char:EOLhyphen"/>miſe, as it is to the being of all of riper years in it, and therefore, not neceſſary to the judging them to be in it. 4. The judgment of charity of ſuch infants, is the judging the beſt of them, that the promiſes may be interpreted to ſignifie.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>2</label> 
+                  <hi>All ſuch infants are children of wrath by nature, as well as o<g ref="char:EOLhyphen"/>thers, and in infancy there is no actual difference between them and children of Infidels, only there is a more likelihood that they are of the election, and there is more hopes of them for the fu<g ref="char:EOLhyphen"/>ture, being born in the boſom of the Church, under the means, they are in a nearer poſſibility, children of Chriſtians are</hi> in po<g ref="char:EOLhyphen"/>tentia propinqua, <hi>and of Infidels</hi> in potentia remota <hi>only.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> As infants of Chriſtians, and of Infidels, are children of <hi>Adam,</hi> there is no actual difference, they have the ſame birth-ſin: but as the children of Chriſtians are children of a people in a Covenant of grace, they actually differ from the children of Infidels, from the conception and birth. The Apoſtle makes an actual difference between <hi>Jews,</hi> born of parents in Covenant; and <hi>Gentiles,</hi> born of parents, ſtrangers from the Covenant, and that from the time of birth,<note place="margin">Galat. 2.15</note> where he ſaith, we are <hi>Jews by nature and not ſinners of the Gentiles;</hi> and he made an actual difference between the chil<g ref="char:EOLhyphen"/>dren of Chriſtians,<note place="margin">1 Cor. 7.14</note> and of Infidels, denominating the former <hi>holy,</hi> and not the latter; which actual difference is not properly called a birth-priviledg, becauſe it is not of natural generation (though contemporary with it) but of free grace, which God is pleaſed to honor his people with,<note place="margin">Deut. 10.13</note> and to deny others. He hath choſen their ſeed above all others.</p>
+               <p>He hath given precious promiſes to his people, and their ſeed,
+<pb n="17" facs="tcp:161669:12"/> as of <hi>being a God</hi> to both, <hi>Circumciſing the hearts</hi> of both, <hi>bleſ<g ref="char:EOLhyphen"/>ſing</hi> both, &amp;c. but not to Infidels, and their ſeed.</p>
+               <p>His manner hath been to call the children of his people,<note place="margin">Ezekiel 16 20 21</note> 
+                  <hi>his children, born to him,</hi> but not the children of Infidels.</p>
+               <p>He hath taken care of the children of his people, that <hi>they ſhould be taught to know him, and tru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t in him,</hi>
+                  <note place="margin">Pſalm 78.5.7 Epheſ. 6.4</note> and be <hi>brought up in his nurture and fear:</hi> but hath viſibly neglected others.</p>
+               <p>
+                  <hi>David</hi> acknowedges that <hi>he was his God from his mothers belly.</hi>
+                  <note place="margin">Pſalm 22 10</note> When the <hi>Ninivites</hi> repented at the preaching of <hi>Ionah,</hi>
+                  <note place="margin">Jonah 4.11</note> he took an exact account of their children, and his bowels were troubled for them.</p>
+               <p>He <hi>numbers the hairs of the heads</hi> of his people,<note place="margin">Luke 12.7</note> and well may be judged tenderly to regard their children.</p>
+               <p>Alſo, God hath required a difference to be made, by all,<note place="margin">Iſaiah 61.8, 9</note> be<g ref="char:EOLhyphen"/>tween the children of his people, and the children of others; the one to be accounted bleſſed, and not the other.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>3</label> 
+                  <hi>All infants of Chriſtians are not in the promiſe; and which are not cannot be diſcerned, during infancy: therefore we can<g ref="char:EOLhyphen"/>not judg any thing until riper years.</hi>
+               </p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 1. All infants of Chriſtians are in the promiſe, as the infants of viſi<g ref="char:EOLhyphen"/>ble profeſſors were in the former diſpenſation, which were right<g ref="char:EOLhyphen"/>ly judged in it. 2. That <hi>ſpecies</hi> being named in the promiſe with<g ref="char:EOLhyphen"/>out reſtriction, and there being no viſible difference in the <hi>in<g ref="char:EOLhyphen"/>dividuals,</hi> we rightly judg every <hi>individual,</hi> in the promiſe, for we are not to make a difference where none is viſible, as in the caſe of actuall profeſſors all are not elect and regene<g ref="char:EOLhyphen"/>rate, and in the promiſe for life, many are Hypocrites and periſh: <hi>In eccleſia plurimi ſunt hypocritae qui nihil habent praeter titu<g ref="char:EOLhyphen"/>lum et ſpeciem Chriſti:</hi> Calv. Yet we rightly judg the <hi>indivi<g ref="char:EOLhyphen"/>duals</hi> elect and regenerate, until the contrary appear in any: by this rule the Apoſtles walked towards the children of Chriſtians, they affirmed them all to be <hi>in the promiſe</hi> with their parents,<note place="margin">Acts 2.39 1 Cor. 7.14</note> and denominated them all <hi>holy.</hi> 3. A certain knowledg of any individual, that it is in the promiſe for life, even of actual profeſ<g ref="char:EOLhyphen"/>ſors, is not attainable by us, God only knows who are his,<note place="margin">2 Tim. 2.19</note> ours is a judgment of probability, which may be of ſuch infants (the promiſe being to them without ſhews of grace) as well as of a<g ref="char:EOLhyphen"/>ctual profeſſors, giving ſhews of grace. 4. Many infants, and a<g ref="char:EOLhyphen"/>ctual
+<pb n="18" facs="tcp:161669:13"/> profeſſors, have been rightly judged by men in the promiſe, who were not in it for life. 5. <hi>Iohn baptiſt,</hi> and the Apoſtles, never indeavoured an exact knowledg of <hi>individuals,</hi> they applyed the promiſe without long inquiry, to many which were Hypocrites.</p>
+               <p>
+                  <hi>Therefore</hi> I conclude, that infants of Chriſtians are rightly judg<g ref="char:EOLhyphen"/>ed in the promiſe of propriety in God,</p>
+               <p>
+                  <hi>Therefore</hi> they may be baptized. The Conſequence I prove by three Arguments.</p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>1</label> I. Ever ſince God added ſeals to the Covenant, the initial ſeal might be granted to thoſe that could rightly be judged in the promiſe.</p>
+               <p>In the former diſpenſation, it was granted to all ſuch, deſiring it for themſelves and their infants, except to infants not eight days old, wanting ſtrength to endure it, and to women, wanting a natural capacity, or becauſe it was not adminiſtrable to them with modeſty.</p>
+               <p>In the latter diſpenſation, <hi>Iohn Baptiſt,</hi> and the Apoſtles deny<g ref="char:EOLhyphen"/>ed not the initial ſeal of it to any whom they judged to be in the promiſe.<note place="margin">Matth. 3.5</note> 
+                  <hi>Iohn Baptiſt</hi> gave it to <hi>Ieruſalem, all Iudea, and the region about Iordan;</hi> and the Apoſtles to many thouſands in a day,<note place="margin">Acts 2</note> and denyed it not any which were not viſibly ſtrangers from the Covenant, and like to continue ſuch.</p>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>2</label> II. Being in the promiſe, is the reaſon rendred by the Apoſtles for the receiving of baptiſm:<note place="margin">Acts 2.38.39</note> therefore, they that are rightly judged in it may be baptized.</p>
+               <p n="3">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>3</label> III. It is the judgment of <hi>Orthodox Divines,</hi> and of the <hi>Reformed Churches,</hi> that baptiſm belongs to all that may be rightly judged in the promiſe. To whom the Covenant be<g ref="char:EOLhyphen"/>longs, to them baptiſm belongs. <hi>Perkinſ. in Galat. p.</hi> 263. <hi>Omni<g ref="char:EOLhyphen"/>bus de bet administrari baptiſmus, ad quos foedus gratiae pertinet, quia est prima obſignatio foederis.</hi> Ameſ. medul. p. 188. Baptiſm ought to be adminiſtred to all to whom the Covenant belongs, becauſe it is the initial ſeal of it. Baptiſm belongs to the children of thoſe which are diſcipled, by vertue of the Covenant. <hi>Whitak. Cont. Duraeum. p.</hi> 685.</p>
+               <p>The <hi>Saxon Church</hi> baptizes ſuch infants, becauſe they judg it certain, that the promiſe of grace appertains to them: <hi>Retinemus infantium baptiſmum, quia certiſſimum eſt promiſſionem gra<g ref="char:EOLhyphen"/>tiae
+<pb n="19" facs="tcp:161669:13"/> ad eos pertinere:</hi> Sax. Confeſſ.</p>
+               <p>The <hi>Helvetian Church</hi> condemns Anabaptiſts, for denying baptiſm to ſuch infants, becauſe by the doctrine of the Goſpel ſuch are in the promiſe. <hi>Helvet. Confeſſ.</hi>
+               </p>
+               <p>To theſe many more inſtances might be added, which being conſonant to the Scripture, and right reaſon, ſoundly conclude.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>1</label> 
+                  <hi>The judgment of charity, that any are in the prom ſe, is not a ſufficient reaſon for administring baptiſm to them: there must be ſhews of grace for more certainty.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> Shews of grace, and actual profeſſion, are a reaſon for baptizing, only as they are a ground for the judgment of charity, that the parties to be baptized are in the promiſe; for elſe, if the Devil ſhould take an humane ſhape, and make a verbal profeſſion, (though he were known to be the Devil) he muſt be baptized. 2. The judgment of charity was the rule by which <hi>Iohn Baptiſt</hi> and the Apoſtles walked, in baptizing; they had no infallible knowledg of the <hi>individuals,</hi> for they baptized Hypocrites, not a few.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>2</label> 
+                  <hi>A right to Evangelical promiſes is not the adaequate reaſon of baptiſm, for the Iews were in the promiſe,</hi>
+                  <note place="margin">Acts 2.38.39</note> 
+                  <hi>yet not baptized with<g ref="char:EOLhyphen"/>out praeceding repentance.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> A viſible right to the promiſe, either by ſhews of grace (as in thoſe of riper years) or by the naming a ſpecies in the promiſe without reſtriction, of which the parties, to be baptized, are in<g ref="char:EOLhyphen"/>dividuals (as the infants of viſible profeſſors are) is a ſufficient reaſon for baptiſm. For, 1. The moſt learned and rational of the A<g ref="char:EOLhyphen"/>nabaptiſts confeſs, that if it could appear to them, that an infant is in the Covenant, they would not doubt of the baptiſm of it. 2. Thoſe <hi>Iews</hi> rejecting and crucifying Chriſt, and atheiſtically mocking at Goſpel-truths, ceaſed to have a viſible right to the promiſe, until they regained it by repentance. Alſo, they were a mixt company, to whom the Apoſtles ſpake, and not all <hi>Iews,</hi>
+                  <note place="margin">Acts 2.8, 11</note> for they were of divers languages: <hi>Inter illa millia hominum qui baptizabantur, multi eo tempore confluxere ex omni natione.</hi> Ameſ. To which may be added, they were <hi>adulti.</hi> 3. It is moſt probable, that repentance was in them only <hi>in fieri,</hi> before their baptiſm, and that the Apoſtles accepted of probabilities of it, and baptized them, as <hi>Iohn</hi> is ſaid to baptize ſome coming to him
+<pb n="20" facs="tcp:161669:14"/> 
+                  <hi>(unto repentance:</hi>
+                  <note place="margin">Matth. 3.11</note>) It may be judged impoſſible, that repentance viſible by fruits, was in all of them, before baptiſm, there being ſo little ſpace to manifeſt it; for immediatly after the exhortation to repentance they were baptized: there could not be time to queſtion every one of them apart, whether they repented: for the day was but about twelve hours,<note place="margin">Acts 2.15</note> and three hours of it were paſt before the Apoſtles began the Sermon, by which they were prick<g ref="char:EOLhyphen"/>ed in their hearts: and that Sermon (conſiſting o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo many weighty points) muſt neceſſarily belong; alſo, they ſpake many words after it was ended, yet three thouſand were added to the Church,<note place="margin">Acts 2.40</note> by baptiſm, that day: Therefore, this ſo much pleaded againſt baptiſm of infants of Chriſtians, argues more ſtrongly for it. Theſe being grievous Apoſtates, damnable rejectors of Chriſt, crucifiers of him, and Atheiſtical mockers at the Goſpel preached, miraculouſly confirmed with extraordinary gifts, were (as it is moſt like) baptized upon probability of repentance: Therefore, infants of Chriſtians, guilty of no actual ſin, may be <hi>baptized unto repentance,</hi> &amp;c. <hi>Si graviſſimis delictoribus &amp; in deum multum antè peccantibus, cu<g ref="char:cmbAbbrStroke">̄</g> poſtea crediderint, remiſſio peccatoru<g ref="char:cmbAbbrStroke">̄</g> datur, &amp; a baptiſmo at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> a gratia nemo prohibetur: quantò magis pro<g ref="char:EOLhyphen"/>hiberi non debet infans, qui recens natus, nihil peccavit, niſi quòd ſecundu<g ref="char:cmbAbbrStroke">̄</g> Adam Carnaliter natus, contagiu<g ref="char:cmbAbbrStroke">̄</g> mortis antiqua primâ nativitate contraxit.</hi> Cypr. Ep. ad Fidum. 4. Being in the promiſe, is the only reaſon mentioned by the Apoſtles for baptiſm. If any diſable the Reaſon, he imputes not a little weakneſs to the Apo<g ref="char:EOLhyphen"/>ſtles, and their Converts: for baptiſm being a Sacrament of a new adminiſtration of the Covenant, newly begun, and (as it is moſt like) wholly unknown to many of them until then, (many of them being ſtrangers, living in remote parts: It was wiſdom in the Apo<g ref="char:EOLhyphen"/>ſtles to give, and in them to have a ſatisfactory Reaſon for receiv<g ref="char:EOLhyphen"/>ing it.</p>
+            </div>
+            <div n="2" type="argument">
+               <head>
+                  <hi>ARGUMENT. II.</hi> Infants of Chriſtians are rightly iudged to be of the Church, with Chriſtians of riper years, <hi>therefore</hi> they may be bapti<g ref="char:EOLhyphen"/>zed.</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>1</label> I. THE <hi>Antecedent</hi> I prove by ten Arguments.</p>
+               <p n="1">I. Infants of Chriſtians are rightly judged in the promiſe
+<pb n="21" facs="tcp:161669:14"/> of propriety in God, therefore they are rightly judged to be of the Church,<note place="margin">Epheſ. 2.12</note> for they only are aliens from the Common-weal of <hi>Iſrael,</hi> which are ſtrangers from the Covenant.</p>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>2</label> II. Infants of Chriſtians are rightly called the Lords Children; for his manner hath been to call the children of his people <hi>his Children.</hi> In the old world ſome were called the <hi>Sons of God,</hi>
+                  <note place="margin">Gen. 6.2, 3</note> as children of his people: and the infants of <hi>Iſraelites</hi> were cal<g ref="char:EOLhyphen"/>led by him, <hi>his Children, born to him,</hi>
+                  <note place="margin">Ezek. 16.20 21 Mal. 2 14, 15 Pſalm 22.30 Jer 30.20 Pſal. 11.6, 16</note> and their lawful ſeed a <hi>ſeed of God</hi> And the <hi>Jews</hi> were <hi>accounted to him,</hi> great and ſmall in every age, until the breaking off; and the ſame was propheſied of the <hi>Gentiles,</hi> when they ſhould be converted, and of the <hi>Jews,</hi> when they ſhould be graffed in again; and the Pſalmiſt calls him<g ref="char:EOLhyphen"/>ſelf the <hi>Lords ſervant,</hi> as he was the <hi>ſon of his hand-maid:</hi> Therefore ſuch infants are rightly judged to be of the <hi>Church, which is the Houſe of God.</hi>
+               </p>
+               <p n="3">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>3</label> III. The Apoſtle denominates the <hi>children</hi> of <hi>Chriſtians holy:</hi>
+                  <note place="margin">1 Cor 7.14 Iſaiah 4.3.</note> Therefore they are rightly judged to be of the Church which conſiſts of ſuch as are rightly denominated <hi>holy:</hi> to which may be added, they are denominated <hi>holy</hi> becauſe they appertain to the Church. <hi>Quia ad Eccleſiam pertinent, hoc nomine Apo<g ref="char:EOLhyphen"/>stolus eos ſanctos praedicat.</hi> Pet. Martyr.</p>
+               <p n="4">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>4</label> IIII. The Infants of viſible profeſſors aforetime, were right<g ref="char:EOLhyphen"/>ly judged to be of the Church with their Parents, for they were initiated into it by <hi>circumciſion,</hi>
+                  <note place="margin">Rom. 3.30 Rom. 15.8.</note> which was the Sacrament of initiation for that time, for which cauſe that Church was called the <hi>Circumciſion.</hi>
+               </p>
+               <p>Therefore the Infants of Chriſtians are rightly judged to be of the Church for they appertain to it, as ſuch infants did to the Church: <hi>Si rogaveris quomodo ſilii Chriſtianorum ad Eccleſi<g ref="char:EOLhyphen"/>am pertineant, respondebimus, non aliter quam filil hebraeorum, Pet. Mart.</hi> Theſe may be as rightly judged to be of the Church, as Infants of viſible profeſſors, of Jews and Gentiles were aforetime; for faith was then no leſs required to Commu<g ref="char:EOLhyphen"/>nion with the Church then now;<note place="margin">Rom. 4.11</note> 
+                  <hi>Circumciſion</hi> the Sacrament of initiation was called <hi>the ſeal of the righteouſneſs of faith.</hi>
+               </p>
+               <p n="5">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>5</label> V. Chriſt affirmed <hi>the Kingdome of God to be of ſuch:</hi>
+                  <note place="margin">Mark 10 14.</note> There<g ref="char:EOLhyphen"/>fore they are rightly judged to be of the Church; for all that en<g ref="char:EOLhyphen"/>ter into the Kingdom of glory are firſt of the Church, and all that
+<pb n="22" facs="tcp:161669:15"/> are aliens from the Church are <hi>without hope:</hi>
+                  <note place="margin">Epheſ. 2.12</note> 
+                  <hi>extra Eccleſiam non eſt ſalus:</hi> Chriſt is the head and Saviour of that body onely.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>1</label> 
+                  <hi>Thoſe Children were brought to Chriſt onely for ſome bodi<g ref="char:EOLhyphen"/>ly cure.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> Negatively. 1. If they had been brought for a bodily cure, the Apoſtles would not have rebuked thoſe that brought them: <hi>Si aegroti fuiſſent non prohibuiſſent.</hi> 2. There is not any inti<g ref="char:EOLhyphen"/>mation of a bodily cure, deſired for them, or wrought upon them. 3. <hi>The Kingdome of God</hi> (the greateſt of all bleſſings) is affirmed to <hi>appertain to them.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>2</label> 
+                  <hi>Thoſe children were of riper years, capable of inſtruction, and not Infants.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> They were Infants, For, 1. They are called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; by which termes <hi>infants ſucking the breaſt</hi> are uſually ſignified: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>nominantur, quibus verbis Graeci, infantes ab uberibus pendentes ſignificant,</hi> Calv. 2. They were brought to Chriſt in the Armes. 3. If they had been capable of inſtru<g ref="char:EOLhyphen"/>ction, the Diſciples had not any ſhew of reaſon to hinder the bringing of them to Chriſt.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>3</label> 
+                  <hi>Onely thoſe which were like infants for innocencie, &amp;c. Were meant and not infants.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 
+                  <note place="margin">Parvulos vo<g ref="char:EOLhyphen"/>cat et per aeta<g ref="char:EOLhyphen"/>tem infantes, et per ſimplicita<g ref="char:EOLhyphen"/>tem morum a<g ref="char:EOLhyphen"/>dultos. <hi>Mald.</hi>
+                  </note>Both Infants and ſuch of riper years as are like them are meant: For, 1. the intention of Chriſt in rebuking his Diſciples for hin<g ref="char:EOLhyphen"/>dring them, was to declare that he would have infants brought to him. 2. If onely thoſe of riper years, like them for innocen<g ref="char:EOLhyphen"/>cie, &amp;c. were meant, Chriſt had not juſt cauſe of ſuch anger at his Diſciples, for being againſt the bringing of infants to him, but rather to approve them in it, and to have called for ſuch as were like them. 3. Interpreting Chriſt of thoſe of riper years only, enervates Chriſts reaſon for bringing Infants to him, which was the <hi>being of the Kingdom of God of ſuch;</hi> and renders it as ſtrong for bringing ſheep and Doves to him, as infants of Chriſtians, for theſe are as innocent and docible, and the <hi>Kingdome is of ſuch as are like them.</hi> 4. Excluding of ſuch infants from being meant;<note place="margin">Neh. 6.1<g ref="char:punc">▪</g> Pſa. 103.17.18 Rev. 20.6</note> overturns all hope of ſalvation of them. 5. <hi>[ſuch]</hi> in ſcripture commonly ſignifies the ſame perſons, and them that are like them.</p>
+               <pb n="23" facs="tcp:161669:15"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>4</label> 
+                  <hi>It is uncertain whether they were Infants of Chriſtians.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> If actions may be interpreted the beſt that they ſignifie, they which brought the children to Chriſt, may charitably be judged <hi>Chriſtians.</hi> For, 1. They brought not children for a bodily cure, but aiming at an higher bleſſing, which may be argued from Chriſts ſilence, of that which concerned the body only, and affirm<g ref="char:EOLhyphen"/>ing the <hi>Kingdom of God to be of ſuch,</hi> it being his manner to ſpeak according to the hearts of thoſe that came to him. 2. Their zeal was great to bring them to Chriſt; it cauſed them to break through all diſcouragements from his Diſciples, and to wait for Chriſts bleſſing: This argues, that they more highly honored Chriſt then Infidels that knew him not. 3. Chriſts great anger at his Diſciples for rebuking, and his <hi>imbraces of the chil<g ref="char:EOLhyphen"/>dren,</hi> and affirmation, that the <hi>Kingdom of God was of them,</hi>
+                  <note place="margin">Mat. 15 26</note> ar<g ref="char:EOLhyphen"/>gues no leſs, for he called Aliens, and their children, <hi>Dogs:</hi> and there is a deep ſilence in his word, of the appertaining of the Kingdom of God to any children of Infidels.</p>
+               <p n="6">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>6</label> VI. Infants of Chriſtians are rightly judged to have the Spi<g ref="char:EOLhyphen"/>rit of God, and to be regenerate:<note place="margin">Deut. 30.6. Iſaiah 44.3</note> for the ſeed of viſible profeſ<g ref="char:EOLhyphen"/>ſors is named in the promiſe of <hi>Circumciſion of the heart, and of the Spirit,</hi> as ſuch profeſſors are; and <hi>the Spirit</hi> is promiſed to children, as children of the people of God:<note place="margin">1 Cor. 12.13 Epheſ. 4.4</note> Therefore they are rightly judged of the Church, for the Spirit initiates into that body all in whom it is.</p>
+               <p n="7">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>7</label> VII. Infants of Chriſtians are denominated <hi>Diſciples;</hi> thoſe whom the falſe Apoſtles would have circumciſed,<note place="margin">Acts 15.1.10</note> the Scripture denominates <hi>Diſciples,</hi> and they were infants of Chriſtians, for they urged <hi>Circumciſion after the manner of Moſes:</hi> Therefore they are rightly judged of the Church, which conſiſts of Diſciples.<note place="margin">Iſaiah 8 16</note>
+               </p>
+               <p n="8">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>8</label> VIII. Chriſtians may hope, that their children dying in infan<g ref="char:EOLhyphen"/>cy are ſaved, <hi>they ought not to ſorrow for their dead, as thoſe which have no hope:</hi>
+                  <note place="margin">1 Theſ. 4.13.</note> Therefore they are rightly judged of the Church, for they that are <hi>Aliens from it</hi> are <hi>without hope,</hi>
+                  <note place="margin">Epheſ. 2.12.</note> Chriſt being <hi>the Saviour of the body</hi> only.<note place="margin">Epheſ. 3.23.</note>
+               </p>
+               <p n="9">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>9</label> IX. Infants of Chriſtians are not rightly judged <hi>Heathen</hi> and <hi>Dogs,</hi> (as ſome <hi>Anabaptiſts</hi> have judged them, calling bap<g ref="char:EOLhyphen"/>tiſm of infants <hi>Lavacrum Canum:</hi>
+                  <note place="margin">Mat. 15.26. Rev. 22.15</note>) Therefore they are rightly judged of the Church, for they which are <hi>without</hi> are <hi>Dogs.</hi>
+               </p>
+               <p n="10">
+                  <pb n="24" facs="tcp:161669:16"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>10</label> X. <hi>Infancy</hi> is no let to being of the Church; Chriſt, an <hi>infant,</hi> was head and King of the Church,<note place="margin">Matth. 2.2</note> and children of viſible profeſ<g ref="char:EOLhyphen"/>ſors, infants, were parts of the Church in the time of the old Te<g ref="char:EOLhyphen"/>ſtament: Wheat in the graſs is Wheat, though Tares are never Wheat: So infants of the Church are <hi>Eccleſia in herba,</hi> the Church in the bud, though not infants of Infidels: and if <hi>infan<g ref="char:EOLhyphen"/>cy</hi> were inconſiſtent with <hi>being of the Church,</hi> it muſt alſo be in<g ref="char:EOLhyphen"/>conſiſtent with ſalvation: Therefore infants of Chriſtians are rightly judged of the Church, (as infants in the family are right<g ref="char:EOLhyphen"/>ly judged parts of the houſe, to which they appertain) notwith<g ref="char:EOLhyphen"/>ſtanding infancy.<note place="margin">1 Cor. 12.13</note> Therefore I conclude, that infants of Chriſtians may be baptized; for baptiſm is the Sacrament of initiation into the Church, and the ordinary way of entrance into it: as it is con<g ref="char:EOLhyphen"/>feſſed by the moſt learned and rational of the <hi>Anabaptiſts;</hi> by it the Apoſtles initiated all that they judged meet to be added to <hi>the Church.</hi>
+                  <note place="margin">Acts 2.41 Acts 8.38</note>
+               </p>
+               <p>For this cauſe, Orthodox Divines, and Churches, have appro<g ref="char:EOLhyphen"/>ved and practiſed baptiſm of infants of Chriſtians. <hi>Ideò bapti<g ref="char:EOLhyphen"/>zantur noſtri pueri (ſicut veterum circumcidebantur) quia extra eccleſiam deputandi non ſunt.</hi> Pet. Martyr. i. e. <hi>Therefore our children are baptized, (as of old, ſuch were circumciſed,) becauſe they are not to be judged without the Church.</hi> Pet. Mart. <hi>Although baptiſm be a Sacrament and repentance of faith; we affirm that infants ought to be baptized, becauſe they are judg<g ref="char:EOLhyphen"/>ed, with their parent, in the Church of God.</hi> French. Church. Confeſſ. <hi>Cur non per ſanctum baptiſmum qui ſunt peculium et in Eccleſia dei, initiantur?</hi> Helvet. Confeſſ.</p>
+               <p>Communion with the Church ought not to be denyed to any which are rightly judged of the Church, (except in the caſe of ſcandal) which never occurs in infants of Chriſtians.</p>
+               <p>The unavoidable want of baptiſm is not, yet the denyal of bap<g ref="char:EOLhyphen"/>tiſm to any is, an excluding of them from Communion with the Church, and keeping them viſibly without, baptiſm being the or<g ref="char:EOLhyphen"/>dinary way of initiation into the Church, and ſign of it. <hi>Baptiſ<g ref="char:EOLhyphen"/>mus eſt ſignum initiationis quo Cooptamur in Eccleſiae ſocieta<g ref="char:EOLhyphen"/>tem.</hi> Calv.</p>
+            </div>
+            <div n="3" type="argument">
+               <pb n="25" facs="tcp:161669:16"/>
+               <head>
+                  <hi>ARGUMENT. III.</hi> Infants of Chriſtians are rightly iudged meet for Baptiſm, notwithſtanding the abſence in them of the Faith, Know<g ref="char:EOLhyphen"/>ledge, &amp;c. neceſſary in all of riper years, iudged meet for Baptiſm, who ought to be diſcipled b fore they are baptized, <hi>Adultos infideles, prius oportet Cat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>menos eſſe quam bap<g ref="char:EOLhyphen"/>tizari: <hi>Bez. in 1 Cor. 7.14. Therefore</hi>
+                  </hi> they may be bap<g ref="char:EOLhyphen"/>tized.</head>
+               <p>THE <hi>Antecedent</hi> I prove by ten Arguments.</p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>1</label> I. The infants of viſible profeſſors, both of <hi>Jews</hi> and <hi>Gen<g ref="char:EOLhyphen"/>tiles</hi> in the former diſpenſation, were rightly judged meet for the initial Sacrament (which was <hi>Circumciſion:</hi>) Therefore the infants of Chriſtians in this diſpenſation are rightly judged meet for the initial Sacrament (which is <hi>Baptiſm,</hi>) for the initial Sa<g ref="char:EOLhyphen"/>crament in the former diſpenſation, ſignified, the <hi>Circumciſion of the heart,</hi> and was a <hi>ſeal of the righteouſneſs of Faith,</hi>
+                  <note place="margin">Deut. 30.6 Col 2.11, 12 Rom. 4.11</note> no leſs then the initial Sacrament in the preſent, and none of riper years were rightly judged meet for it, but ſuch as are now judged meet for baptiſm.</p>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>2</label> II. Infants of Chriſtians are rightly judged meet for the Kingdom of God, for Chriſt affirms, the <hi>Kingdom of God to be of ſuch,</hi>
+                  <note place="margin">Mark 10.14</note> and that thoſe of riper years muſt be like them if they be meet for the Kingdom of God,<note place="margin">Mat. 18.2</note> and not that ſuch infants muſt be like thoſe of riper years if they be meet for it: Therefore ſuch infants are rightly judged meet for baptiſm,<note place="margin">1 Pet, 3.21</note> it being the initial Sacra<g ref="char:EOLhyphen"/>crament of it, and the firſt Ceremony to be uſed about thoſe which are ſaved.</p>
+               <p n="3">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>3</label> III. Infants of Chriſtians are denominated <hi>holy,</hi> notwithſtand<g ref="char:EOLhyphen"/>ing the abſence of that faith, knowledg,<note place="margin">1 Cor. 7.14</note> &amp;c. which is neceſſary in all of riper years, that they may be denominated <hi>holy:</hi> There<g ref="char:EOLhyphen"/>fore ſuch infants are rightly judged meet for baptiſm.</p>
+               <p n="3">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>4</label> III. Infants of viſible profeſſors are called the <hi>Lords Chil<g ref="char:EOLhyphen"/>dren,</hi> and a <hi>ſeed of God, &amp;c.</hi>
+                  <note place="margin">Ezek 16.20.21 Malachi 2.15 Matth. 28.19 Galathians 3</note> Therefore they are rightly judged meet for baptiſm: It being the Sacrament of putting his name on his children, and outward ſign of adoption: <hi>Baptiſmus eſt
+<pb n="26" facs="tcp:161669:17"/> externum pignus adoptionis:</hi> Whitak.</p>
+               <p n="5">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>5</label> V. Chriſt, on earth, deſpiſed not the day of thoſe ſmall things, but judged them meet to have a viſible acceſs to him,<note place="margin">Mark 10.13</note> and to be bleſſed with his own hand, and he bleſſed them with the choiceſt of bleſſings: Therefore ſuch are rightly judged meet for the wa<g ref="char:EOLhyphen"/>ſhing of baptiſm by the hand of his ſervants.</p>
+               <p n="6">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>6</label> VI. Infants of Chriſtians may be ſolemnly <hi>Dedicated</hi> to the Lord. For 1. It hath been a practiſe of his people graciouſly accept<g ref="char:EOLhyphen"/>ed of him.<note place="margin">Deut. 29.11</note> In the days of <hi>Moſes</hi> the people devoted their little ones, with themſelves, to him by a ſolemn Covenant, and their pi<g ref="char:EOLhyphen"/>ous act was accepted,<note place="margin">Ieremiah 2 3 Ezek 16.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ioel 2<g ref="char:punc">▪</g> 16</note> the Lord accounted them <hi>holy,</hi> great and ſmal, and called their children <hi>his children;</hi> and called for ſuch of them as <hi>ſucked the breaſt,</hi> to bear a part in days of humiliation, for tranſgreſſing the Covenant, with their parents. <hi>Anna</hi> de<g ref="char:EOLhyphen"/>ſiring a ſon,<note place="margin">1 Sam. 1.24</note> made a vow to <hi>give him to the Lord all his days,</hi> and God heard her deſire, and accepted the performance of her vow: The Pſalmiſt affirms,<note place="margin">Pſalm 22.10</note> that he was caſt <hi>upon the Lord from the womb,</hi> and that God was <hi>his God from his mothers belly:</hi> Chriſt, on earth, commanded <hi>little children to be brought to him,</hi> and ſuch as were brought he imbraced and bleſſed: <hi>Oblatos humani<g ref="char:EOLhyphen"/>ter et benigne accepit, ſolenni<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> benedictonis ritu eoſdem patri conſecravit.</hi> 2. The infants of Chriſtians are peculiarly the Lords, with their parents, in which regard the Apoſtle denomi<g ref="char:EOLhyphen"/>nates them <hi>holy,</hi> for that is rightly called <hi>holy</hi> that peculiarly be<g ref="char:EOLhyphen"/>longs to him:<note place="margin">1 Cor. 7.14</note> 
+                  <hi>Sanctum di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itur quod deo peculiariter devotum et conſecratum est.</hi> B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z. Therefore they may be rightly dedi<g ref="char:EOLhyphen"/>cated to him: for the reaſon, why the <hi>firſt born</hi> in <hi>Iſrael</hi> were in a ſpecial manner to be dedicated to the Lord, was becauſe they were moſt peculiarly his. 3. The abſence of ſhews of divine grace in ſuch infants is no let of a ſolemn dedication of them to the Lord; for infants of Gods people, in the old Teſtament, were (by ſuch ways as the people of God then had) dedicated to the Lord without them, and infants of Chriſtians are denomi<g ref="char:EOLhyphen"/>nated <hi>holy</hi> in the new Teſtament without ſhews of grace, which are neceſſary in thoſe of riper years; nor yet is the dedication of infants of Chriſtians any Argument for baptiſm of infants of In<g ref="char:EOLhyphen"/>fidels, for the Scripture is ſilent of their holineſs, for which cauſe they are not viſibly the Lords, and the Lord never required of
+<pb n="27" facs="tcp:161669:17"/> them that refuſed to devote themſelves, a dedication of their chil<g ref="char:EOLhyphen"/>dren to him: Therefore ſuch infants are rightly judged meet for baptiſm; for it is the <hi>Sacrament of Dedication</hi> to the Lord in the new Teſtament,<note place="margin">Mat. 28.19</note> by which the party baptized is ſolemnly conſe<g ref="char:EOLhyphen"/>crated to him, and his <hi>name is put upon him,</hi> that he may be ac<g ref="char:EOLhyphen"/>counted his; and the outward ſign of adoption; for in the inſtant of Chriſts Baptiſm, the voyce from Heaven was,<note place="margin">Mat. 3.17</note> 
+                  <hi>this is my belo<g ref="char:EOLhyphen"/>ved Son,</hi> declaring the meaning of that <hi>ſign</hi> to be the glorious pri<g ref="char:EOLhyphen"/>viledg of <hi>ſon-ſhip;</hi>
+                  <note place="margin">Gal. 3.26, 27</note> and the Chriſtians in <hi>Galatia</hi> are called <hi>Chil<g ref="char:EOLhyphen"/>dren of God</hi> from their baptiſm.</p>
+               <p n="7">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>7</label> VII. Infants of Chriſtians are rightly judged to have in them the principal things ſignified by baptiſm, though not in ſuch a de<g ref="char:EOLhyphen"/>gree as actual profeſſors: <hi>Inſunt actu primo non ſecundo, in ſe<g ref="char:EOLhyphen"/>monte non in meſſe, in radice non in fructu.</hi> Tilen. For this was rightly judged of the infants of viſible profeſſors aforetime, in re<g ref="char:EOLhyphen"/>gard of the initial Sacrament, which ſignified the <hi>Circumciſion of the heart,</hi> and was a <hi>ſeal of the righteouſneſs of Faith,</hi> in the time of it, no leſs then baptiſm now is; Therefore ſuch infants are rightly judged meet for baptiſm.</p>
+               <p n="8">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>8</label> VIII God undertakes for what is wanting in the infants of his people through infancy, as he doth, for what is wanting in his people through infirmity:<note place="margin">Pſalm 119.122 Deut. 30.6. Mat. 18.19</note> He is a <hi>ſurety for his people for good,</hi> and he hath given his Word for their ſeed, that their <hi>heart ſha <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be circumciſed,</hi> and hath promiſed to do for his people, and theirs, <hi>What ever they ſhall ask for themſelves and theirs;</hi>
+                  <note place="margin">Iſaiah 22.24</note> and expects that his people ſhould not only depend upon him them<g ref="char:EOLhyphen"/>ſelves, but alſo hang upon him their off-ſpring and iſſue, which the faithful have done with deſired ſucceſs, as the Pſalmiſt wit<g ref="char:EOLhyphen"/>neſſes, ſaying, <hi>I was caſt upon thee from the womb,</hi>
+                  <note place="margin">Pſalm 22.10</note> and <hi>thou art my God from my mothers belly:</hi> Therefore ſuch infants are righ<g ref="char:EOLhyphen"/>ly judged meet for baptiſm, the ef<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cacy of which depends upon Gods bleſſing. <hi>Robinſ. de relig. p.</hi> 76. 77. Who can give the grace ſignified before or after baptiſm? <hi>Deus poteſt vel ante, vel poſt ba tiſmum, gratiam Communicare.</hi> Ameſ. Bellarm. enerv.</p>
+               <p n="9">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>9</label> IX. Infants of Chriſtians have by imputation that which is ab<g ref="char:EOLhyphen"/>ſent in them by infancy, as well as Chriſtians, that which is want<g ref="char:EOLhyphen"/>ing in them by invincible infirmity: As both have guiltineſs by imputation from <hi>Adam,</hi>
+                  <note place="margin">Rom.5.19</note> ſo both have righteouſneſs by imputati<g ref="char:EOLhyphen"/>on
+<pb n="28" facs="tcp:161669:18"/> from Chriſt: the defects of both are made up out of Chriſts treaſury;<note place="margin">Col. 3.11</note> 
+                  <hi>Chriſt is all in all,</hi> elſe it were impoſſible for infants to be ſaved: Therefore infants of Chriſtians are rightly judged meet for baptiſm.</p>
+               <p n="10">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>10</label> X. Shews of grace are not neceſſary to the judging infants of Chriſtians meet for baptiſm, as they are to judg the like of all of riper years. For, 1. They are not neceſſary to the judging the things ſignified by baptiſm in them: If <hi>Adam</hi> had not ſinned, in<g ref="char:EOLhyphen"/>fants (though not any of riper years) had been rightly judged to have original righteouſneſs in them without ſhews, as now they are rightly judged to have original ſin in them, without ſhews of it; and <hi>Iſaac,</hi> and other infants, were rightly judged to have the grace of the new Covenant in them without ſhews of it. 2. Viſible grace doth not neceſſarily praecede initial Sacra<g ref="char:EOLhyphen"/>ments in all, they err that affirm it: <hi>Quidam rem temporis or<g ref="char:EOLhyphen"/>dine, ſignum ſemp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r praeire volunt ſed falsò.</hi> Calv. In thoſe of ri<g ref="char:EOLhyphen"/>per years it ought to have a praecedency, but not in infants of Chriſtians; to theſe initial Sacraments are profitable before they have viſible grace,<note place="margin">Rom. 3.1, 2</note> which is evident in Circumciſion: <hi>Adultis quidem niſi fidem propriam attulerint, non eſt ſalutare Sacra<g ref="char:EOLhyphen"/>mentum: Parvulis vero, quia fidelium liberi ſunt, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> foeder<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> includuntur, etiam ſi ad huc, propter aetatem credere non poſſunt, eſt tamen ſalutare Sacramentum.</hi> Whitak. Contr. Durae. p. 682. Grace, viſible by effects, afterwards ſupplies in them the preſent abſence, as it did in ſuch in the initial Sacrament afore<g ref="char:EOLhyphen"/>time, and in <hi>baptiſm in the Sea, and in the Cloud,</hi> which was the ſame in ſubſtance and ſignification with baptiſm in this diſpen<g ref="char:EOLhyphen"/>ſation: Chriſt <hi>waſhed Peter</hi> (in whom there might have been actual knowledg) for as much as he might know afterwards the myſtery of it;<note place="margin">John 13 7<g ref="char:punc">▪</g>
+                  </note> much more may infants of Chriſtians have the waſhing of baptiſm without actual knowledg, the preſence of it in them being impoſſible, and the abſence of it innocent: Bap<g ref="char:EOLhyphen"/>tiſm is called <hi>baptiſm unto repentance,</hi> as well as <hi>baptiſm of re<g ref="char:EOLhyphen"/>pentance:</hi>
+                  <note place="margin">Matthew 3.11</note> Therefore infants of Chriſtians are rightly judged meet for baptiſm, though they have not ſhews of grace.</p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>1</label> 1. <hi>Infants of Chriſtians cannot p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rform the Covenant, to which they are ingaged by baptiſm, therefore they are not right<g ref="char:EOLhyphen"/>ly judged meet for baptiſm.</hi>
+               </p>
+               <p n="1">
+                  <pb n="29" facs="tcp:161669:18"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 1. An ingagement may praecede ability of performance: the in<g ref="char:EOLhyphen"/>fants of viſible profeſſors aforetime were ingaged by Circumciſi<g ref="char:EOLhyphen"/>on (which made men <hi>Debtors to keep</hi> the Covenant according to the tenor of the adminiſtration,<note place="margin">Galat. 5.3</note>) yet had not abilities to per<g ref="char:EOLhyphen"/>form it until afterwards:<note place="margin">Deut. 29.11</note> and the <hi>Iſraelites</hi> in <hi>Moſes</hi> days in<g ref="char:EOLhyphen"/>gaged their infants with themſelves in a national Covenant, which they were not able actually to perform. Parents oft ingage chil<g ref="char:EOLhyphen"/>dren in the cradle, actually knowing nothing, to perform duties and pay debts when they come to riper years. 2. Performance, according to ability renewed, is accepted with God: If <hi>Adam</hi> had not ſinned, infants could have acted nothing of the Covenant of works yet breach o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Covenant had not been charged upon them: Circumciſion, <hi>a token of the Covenant,</hi> was accepted in infants of viſible proffeſſors in the time of it,<note place="margin">Gen. 17.9.10. Iſai. 38.18.19 2 Cor. 8.12</note> for performance of the Covenant, for it was called <hi>the Covenant:</hi> the dead bodies of the Saints act not in the grave, yet they are not guilty of tranſ<g ref="char:EOLhyphen"/>greſſing the Covenant: God accepts what one hath, and requires not what one hath not:<note place="margin">Mark 14 8 Mar 12 42 43, 44</note> Chriſt ſaith of the woman that poured the ointment on his head, <hi>ſhe hath done what ſhe could,</hi> and of the widow that caſt in the two mites, <hi>ſhe hath caſt in more then all, for ſhe hath cast in all ſhe had</hi>
+               </p>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>2</label> 2. <hi>If they are rightly judged meet for baptiſm, they may be recei<g ref="char:EOLhyphen"/>ved to the Lords Supper: It may as well be given to infants as baptiſm, they being alike inſenſible of both.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> Infants of Chriſtians have a right to the Lords Supper, and the ſubſtance of both Sacraments is the ſame, <hi>viz.</hi> the benefits of Chriſts death in our Juſtification, Sanctification and Glorificati<g ref="char:EOLhyphen"/>on; yet the Lords Supper ought not to be given to ſuch infants. For, 1. The Ceremonies of Adminiſtration, and outward ele<g ref="char:EOLhyphen"/>ments in the Lords Supper, are ſuch, as that it cannot be given to ſuch infants, which argues, that God hath intended the ſupper on<g ref="char:EOLhyphen"/>ly for thoſe of riper years. In the Adminiſtration, of baptiſm <hi>paſſion</hi> only is required in the ſubject; it is a <hi>paſſive Sacrament,</hi> as of old Circumciſion was; the receiver acts not neceſſarily a<g ref="char:EOLhyphen"/>bout it, but ſuffers it to be done: But in receiving the Lords Supper <hi>actively</hi> about the elements, is neceſſarily required as <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee<g ref="char:EOLhyphen"/>ing</hi> with the eye, <hi>taking</hi> with the hand, <hi>eating</hi> with the mouth, &amp;c. and it cannot be given to any meerly paſſive. 2. Baptiſm i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a
+<pb n="28" facs="tcp:161669:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="29" facs="tcp:161669:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="30" facs="tcp:161669:20"/> Sacrament of <hi>initiation</hi> and <hi>entrance</hi> into the Church: <hi>Baptiſ<g ref="char:EOLhyphen"/>mus eſt in eccleſiam in greſſus.</hi> Calv. but the Lords Supper is a Sacrament of <hi>progreſs</hi> in it. In baptiſm we are <hi>incipientes,</hi> but in the Lords Supper <hi>proficientes:</hi>
+                  <note place="margin">Heb. 6.1, 2</note> Baptiſm is the firſt Ceremony uſed about thoſe that are received into the Church: He that may be <hi>matriculated,</hi> may not therefore take the degree of <hi>ma<g ref="char:EOLhyphen"/>ſter,</hi> and he that may be taken into the loweſt form in the ſchool, may not therefore be caught up into the higheſt; and becauſe a ſchollar is not meet to be of the higheſt form, it follows not, therefore he may not be in the loweſt: They which cannot be judged meet for baptiſm are not rightly judged meet for the o<g ref="char:EOLhyphen"/>ther Sacrament; and they that are rightly judged meet for bap<g ref="char:EOLhyphen"/>tiſm, are not, therefore, neceſſarily judged meet for the other: no uncircumciſed perſon was meet to eate the paſſover, neither were all that were circumciſed,<note place="margin">Exodus 12.48</note> therefore, to eat the paſſover: Some were a time expectants, and a ſpecial preparation was required in thoſe that were to eat it.</p>
+            </div>
+            <div n="4" type="argument">
+               <head>
+                  <hi>ARGUMENT. IIII.</hi> Sealing the Covenant by an initial Sacrament to infants of Gods people, hath been the practiſe of the univerſal Church ever ſince God added ſeals to the Covenant of grace. <hi>Ergo,</hi>
+               </head>
+               <p>THat it was the practiſe of the Church in the time of the old Teſtament, (notwithſtanding ſome omiſſions and inter<g ref="char:EOLhyphen"/>miſſions) cannot be denyed. And that it hath been the practiſe of the Catholick Church in the preſent diſpenſation of the Cove<g ref="char:EOLhyphen"/>nant: I conclude from two <hi>Propoſitions,</hi> which I will prove.</p>
+               <p>Propoſ. 1. <hi>The ſealing of the Covenant to the infants of Chriſtians by baptiſm (the initial Sacrament of the preſent diſpenſation) was the practiſe of the Church in the Apoſtles times:</hi> This I prove by four Arguments.</p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>1</label> I. Sealing the Covenant by an initial Sacrament to infants of Gods people aforetime, was not peculiar to that Church-ſtate. For, 1. The promiſe of propriety in God, ſealed to ſuch infants, was not peculiar to the infants of that time; for it was part of
+<pb n="31" facs="tcp:161669:20"/> the moſt eminent Promiſe of the Catholick Covenant of Grace with the univerſal Church. 2 Sealing the Promiſe by an initial Sacrament, is not only in reference to a particular Church, either <hi>National</hi> or <hi>Congregational,</hi> but principally in reference to the Catholick Church, for initial Sacraments primarily reſpect it: this is evident in that Baptiſm is mentioned as a Sacrament of initiation <hi>into that body.</hi> 3.<note place="margin">1 Cor. 12 13.</note> The diſſolution of that Church ſtate did not diſſolve the ſealing of that Promiſe by an initial Sacra<g ref="char:EOLhyphen"/>ment to all Infants,<note place="margin">Rom. 21 17.</note> for there was a breaking off only of ſome branches, and not of all; and therefore ſome are in <hi>ſtatu quo prius,</hi> and of right to enjoy ſuch priviledges as were not ſpeci<g ref="char:EOLhyphen"/>alties, but common to the ſpecies: therefore the method uſed aforetime was obſerved in their days.</p>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>2</label> II. In this diſpenſation the Apoſtles judged the ſame of In<g ref="char:EOLhyphen"/>fants of Chriſtians that was judged, in the former, of the Infants of Gods people.</p>
+               <p>They affirmed the children in the Promiſe with the parents: denominated the Children of Chriſtians <hi>holy:</hi> taught that the <hi>bleſſing of Abraham was come on the Gentiles by Chriſt:</hi>
+                  <note place="margin">Acts 2.39. 1 Cor 7 14. Gal 3.14. Rom 11 17.</note> and that <hi>Chriſtians were graffed in for Jews broken off,</hi> &amp;c. there<g ref="char:EOLhyphen"/>fore the Promiſe was ſealed by the initial Sacrament to Infants with their Parents (as afore time) in their days, for ſuch as they judged ſuch things of the initiated by Baptiſm.</p>
+               <p n="3">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>3</label> III. Where the heads of families became Chriſtians, the A<g ref="char:EOLhyphen"/>poſtles baptized <hi>them and all theirs,</hi>
+                  <note place="margin">Acts 16.15 33 1 Cor. 1.16.</note> even their whole <hi>houſholds</hi> at their requeſt (of which divers inſtances, as ſufficient witneſſes that it was their practiſe are left upon the ſacred file of the Word) which was the method uſed aforetime in the initial Sa<g ref="char:EOLhyphen"/>crament.<note place="margin">Gen 17.</note>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>
+                  </label> 
+                  <hi>By houſholds muſt be underſtood the diſcipled of them by preaching of the Gospel, and not every individual,</hi>
+                  <note place="margin">Exod. 12.48.</note> 
+                  <hi>for in thoſe times there were in Chriſtian Families oft Infidels, which ought not to be baptized.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> The Apoſtl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s practiſe is beſt interpreted by practiſes in like caſes:<note place="margin">Gen. 17.12, 13 Exo 12.48, 49</note> 
+                  <hi>Abraham</hi> was required to <hi>circumciſe all his males born in his houſe and bought with his money:</hi> likewiſe the Converts of the Gentiles, in whoſe families ſome doubtleſs were Infidels, and refuſed Circumciſion, ſuch might depart the family, and
+<pb n="32" facs="tcp:161669:21"/> were to be cut off from it;<note place="margin">Gen. 17.14.</note> and all the reſt (having a natural ca<g ref="char:EOLhyphen"/>pacity) great and ſmall were circumciſed.</p>
+               <p>The like was the practiſe of the Apoſtles in <hi>baptizing houſe<g ref="char:EOLhyphen"/>holds,</hi> for the order that they gave concerning Infidels in Chri<g ref="char:EOLhyphen"/>ſtian families, was, that they ſhould have liberty to <hi>depart</hi> the family,<note place="margin">1 Cor. 7.13.</note> though tyed to it by the ſtrongeſt relation: and there is great reaſon to conclude that they baptized the reſt, great and ſmall. For 1. it was an ancient known cuſtom in the Church, for religious Parents to <hi>devote</hi> their Infants with themſelves to the Lord, and to undertake the bringing them up in the fear of God:<note place="margin">1 Cor. 11 16.</note> and ancient pious cuſtoms of the Church they honored and followed. 2. They judged the Children with the Parents in the Promiſe, and <hi>foederally holy.</hi> 3. They had been ſharply rebuked by Chriſt for deſpiſing the day of thoſe ſmall things and ſent to learn of them innocency, humility, &amp;c. and taught <hi>that the kingdom of God was of ſuch,</hi> as well as of actual profeſſors. 4. There is nothing in the Apoſtles Commiſſion inconſiſtent with ſealing the Promiſe to Infants of Chriſtians by Baptiſm the initial Sacrament: For that which was given them in Commiſ<g ref="char:EOLhyphen"/>ſion,<note place="margin">Mat. 28.19, 20</note> was, that they ſhould <hi>Diſciple the Nations</hi> (which were <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>) <hi>baptizing and teaching them to do all that Chriſt had commanded;</hi> which was the method uſed in the former diſpen<g ref="char:EOLhyphen"/>ſation; <hi>Abraham</hi> and all of riper years were <hi>Diſcipled</hi> before the ſealing of the Covenant by the initial Sacrament: yet was the Covenant ſealed to Infants of viſibl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> profeſſors by the initial Sacrament, which was <hi>a ſeal of the righteouſneſs of faith.</hi> 5.<note place="margin">Iſai. 22.24.</note> Infants are eſſential and moſt innocent parts of the family, the off-ſpring is the glory of the houſe.</p>
+               <p n="4">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>4</label> IV. The moſt ancient credible Writers refer the original of Baptiſm of Infants to the Apoſtles times: <hi>Calvin</hi> affirms that <hi>there is no Writer ſo ancient which doth not refer the original of Baptiſm of Infants to the Apostles days:</hi> Nullus eſt ſcriptor tam vetuſtus qui ejus originem ad Apoſtolorum ſeculum pro certo non refert; <hi>Calv. inſtit. l.</hi> 4. <hi>c.</hi> 16. § 8.</p>
+               <p>
+                  <hi>Origen</hi> affirms that <hi>the Church received inſtruction to bap<g ref="char:EOLhyphen"/>tize Infants from the Apoſtles:</hi> Eccleſia traditionem baptizandi parvulos ab Apoſtolis accepit: <hi>Orig. l.</hi> 2. <hi>in Roman. c.</hi> 6.</p>
+               <p>
+                  <hi>Dionyſius</hi> ſaith that <hi>it was delivered by the Apoſtles that In<g ref="char:EOLhyphen"/>fants
+<pb n="33" facs="tcp:161669:21"/> ſhould be baptized:</hi> Ab Apoſtolis traditum fuit ut Infan<g ref="char:EOLhyphen"/>tes baptizarentur: <hi>Dionyſ.</hi>
+               </p>
+               <p>
+                  <hi>Augustine</hi> mentions it as <hi>a cuſtom of the univerſal Church received from the Apostles;</hi> and ſaith, it <hi>were not to be received if it were not Apoſtolical:</hi> Conſuetudo matris eccleſiae in bap<g ref="char:EOLhyphen"/>tizandis parvulis non eſſet omnino credenda niſi Apoſtolica tradi<g ref="char:EOLhyphen"/>tio eſſet: <hi>Auguſt.</hi>
+               </p>
+               <p>Propoſ. 2. <hi>Baptizing Infants of Christians hath been the practiſe of the univerſal Church from the times immediately following the Apoſtles days, and it hath been held by the ſame a divine inſtitution long before the man of ſin was revealed: Zanchy</hi> (whoſe teſtimony is honored by all of ſound judgment) witneſſes that <hi>the Catholick Church never doubted of Baptiſm of Infants of thoſe that might be judged of the Church:</hi> De In<g ref="char:EOLhyphen"/>fantibus eorum qui de Eccleſia eſſe judicentur, Eccleſia Catholica nunquam dubitavit: <hi>Zanch. in Eph. p.</hi> 226.</p>
+               <p>In the ſecond Century, about the year 143. <hi>Higinus</hi> Biſhop of <hi>Rome</hi> appointed <hi>god-fathers and god-mothers</hi> to undertake for Infants in Baptiſm,<note place="margin">Willet in Rom. c. <hi>6.</hi> controv. <hi>6.</hi>
+                  </note> which argues that Baptiſm of Infants was in uſe then and before.</p>
+               <p>
+                  <hi>Auguſtine</hi> lived in the fourth Century, and he called it <hi>the cuſtom of the mother Church.</hi>
+               </p>
+               <p>
+                  <hi>Origen</hi> living in the third Century, mentions it as <hi>the practiſe of the Church received from the Apoſtles.</hi>
+               </p>
+               <p>And the <hi>firſt Sect</hi> oppoſing Baptiſm of ſuch Infants, as an In<g ref="char:EOLhyphen"/>novation, Popiſh figment and deluſion of the devil, ſprang up in <hi>Germany</hi> but in the <hi>ſixteenth Century.</hi>
+               </p>
+               <p>Some omiſſions and intermiſſions of Baptiſm of Infants, in the firſt times, argues not that it hath not been the practiſe of the <hi>univerſal Church,</hi> nor that it hath not been held as a divine in<g ref="char:EOLhyphen"/>ſtitution: For in the time of the Old Teſtament there were o<g ref="char:EOLhyphen"/>miſſions of Circumciſion in evil times, and intermiſſions for many years; in the times of the travels of the Iſraelites,<note place="margin">Joſhua 5.</note> it was intermitted the ſpace of fourty years: yet Circumciſion was the practiſe of the Church in the Old Teſtament, and held by it a di<g ref="char:EOLhyphen"/>vine inſtitution.</p>
+               <p>The reaſon of thoſe omiſſions and intermiſſions of Baptiſm of Infants, and that ſome were expectants until riper years, was
+<pb n="34" facs="tcp:161669:22"/> not becauſe Baptiſm of Infants was accounted ſinful and a delu<g ref="char:EOLhyphen"/>ſion of the devil, for it was not ſo judged: <hi>Cyprian</hi> (who lived in the third Century) affirms that <hi>the Baptiſm of Infants was (in his time) approved in a Councel of</hi> (66) <hi>Biſhops,</hi> nemine contra dicente: <hi>Epiſt. ad Fid.</hi>
+               </p>
+               <p>In a <hi>Councel at Millain,</hi> it was decreed that <hi>whoſoever ſhould deny Baptiſm of Infants ſhould be Anathema:</hi> Quicunque parvulos baptizandos negat Anathema ſit: <hi>Concil. Melevit.</hi>
+               </p>
+               <p>The reaſon why <hi>Tertullian</hi> urged delay of Baptiſm until riper years, was, becauſe many baptized Infants of Infidels as well as of Chriſtians; <hi>Jun. Constantines</hi> Baptiſm was delayed out of a deſire to be baptized in <hi>Jordan</hi> where Chriſt was baptized: and ſome lived among Infidels and could not enjoy it for their chil<g ref="char:EOLhyphen"/>dren; and ſome among Hereticks and could not have it rightly adminiſtred; and ſome their Parents were Infidels during their Infancy, therefore they were not baptized until riper years: Some delayed Baptiſm until death, becauſe of an erroneous opi<g ref="char:EOLhyphen"/>nion, that after Baptiſm there is no remiſſion of ſin: <hi>Baptiſmum tum demum ſuſcipiam, cum <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> viciis et iniquitatibus de ſiſtam</hi> &amp;c. Some were baptized in riper years, becauſe having been baptized by <hi>Novatus</hi> the Heretick, they thought they had not been right<g ref="char:EOLhyphen"/>ly baptized: and ſome, becauſe they would be baptized by <hi>Do<g ref="char:EOLhyphen"/>natus,</hi> thinking thoſe only rightly baptized which were bapti<g ref="char:EOLhyphen"/>zed by him and his party.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>
+                  </label> 
+                  <hi>Prelacy hath been in the Church ever ſince the firſt times, yet it doth not follow that it may be continued: ſo neither doth it, that Baptiſm of Infants is to be practiſed becauſe it hath been long in uſe.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 
+                  <hi>Prelacy</hi> hath not been in the Church from the firſt times as a divine Inſtitution, as Baptiſm of ſuch Infants hath been. It is certain that <hi>Prelacy</hi> was not an Apoſtolical Inſtitution, for the Apoſtles <hi>ſubjected the ſpirits of the Prophets to the Prophets,</hi>
+                  <note place="margin">1 Cor. 14, 32</note> and not to a ſingle Biſhop: and the Government of the Churches <hi>to Elders in common,</hi>
+                  <note place="margin">Acts 14 23. Act. 20.25.28</note> not advancing one over the reſt, and this at their departure from them never to ſee them more; and <hi>Elders</hi> and <hi>Biſhops</hi> were all one, they called the <hi>Elders, Biſhops. Hujuſmodi principatus nondum natus erat, cum primum incepit poſtea quam adempti Apoſtoli erant.</hi> Brightman.</p>
+               <pb n="35" facs="tcp:161669:22"/>
+               <p>
+                  <hi>Jerom</hi> affirms that <hi>Biſhops and Elders were one, and that the Church was governed by a Councel of Elders, and that Bi<g ref="char:EOLhyphen"/>ſhops obtained the preheminence above Elders by Humane Cu<g ref="char:EOLhyphen"/>ſtom and not Divine Inſtitution.</hi>
+               </p>
+               <p>
+                  <hi>Epiſcopus &amp; Preſbyter unum ſunt: antequam ſtudia in re<g ref="char:EOLhyphen"/>ligione fiebant, communi Preſbyterorum Concilio Eccleſia gu<g ref="char:EOLhyphen"/>bernata fuit:</hi> Hieron. in Tit. 1. <hi>Noverint Epiſcopi ſe Preſby<g ref="char:EOLhyphen"/>teris majores conſuetudine magis quàm domini<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ae dispoſitionis veritate;</hi> Idem.</p>
+               <p>
+                  <hi>Ammonius</hi> in the fourth Century (a man of eminent piety) diſmembered himſelf and fled becauſe he would not be a <hi>Pre<g ref="char:EOLhyphen"/>late.</hi>
+                  <note place="margin">Socr. l. <hi>4.</hi> c. <hi>18.</hi>
+                  </note> Likewiſe <hi>Evagrius</hi> about the ſame time fled for the ſame cauſe.</p>
+               <p>
+                  <hi>Ambroſe</hi> being choſen Biſhop by an univerſal vote of the people of <hi>Millain,</hi> denyed utterly to be Biſhop, and by no im<g ref="char:EOLhyphen"/>portunity would yeeld his conſent,<note place="margin">Socr. l. <hi>4.</hi> c. <hi>25.</hi>
+                  </note> until <hi>Valentinianus</hi> the Em<g ref="char:EOLhyphen"/>peror commanded him to be created <hi>Biſhop, volens nole<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</hi> And his refuſal was not from exceſs of modeſty, but knowledg, that the Church had been and ought to be governed by Elders.</p>
+               <p>
+                  <hi>Eccl ſia ſeniores habuit, quorum ſine Concilio nihil agebatur in Eccleſia, quod quâ negligent â obſoleverit neſcio, niſi fortè doctorum deſid â aut magis ſuperbiâ, dum ſoli volunt aliquid videri:</hi> i.e The Church had Elders, without the Councel of whom nothing was done in the Church, which thing by what negligence it grew out of uſe I know not, unleſs perhaps through the ſloath or rather pride of the Teachers, whilſt they alone would be thought ſomewhat. Ambroſ. in 1 Tim. 5.</p>
+               <p>Therefore I conclude, that ſealing the Promiſe to Infants of Gods people hath been the practiſe of the univerſal Church ever ſince God added ſeals to the Covenant of Grace, and that it is no Innovation or Popiſh figment: and that it is intolerable preſumption in thoſe that ſo cenſure it, for to deſpiſe any pious cuſtom of the univerſal Church, and to judg it evil, is inſolent madneſs. <hi>Conſuetudo matris Eccleſiae non eſt ſpernenda,</hi> Auguſt. <hi>Inſolentiſſimae infanie eſt exiſtimare non recté fieri quod ab univerſa Eccleſia fit:</hi> Idem ep. 111.</p>
+            </div>
+            <div n="5" type="argument">
+               <pb n="36" facs="tcp:161669:23"/>
+               <head>
+                  <hi>ARGUMENT V.</hi> The profit of Baptiſm is great to the Infants of Chriſtians, <hi>therefore</hi> they may be baptized.</head>
+               <p>THe <hi>Antecedent</hi> I prove by ſix Arguments.</p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>1</label> I. The profit of Circumciſion (which was, as Baptiſm is,<note place="margin">Rom. 3.1, 2.</note> a Sacrament of Faith and Repentance) was great to the In<g ref="char:EOLhyphen"/>fants of Gods people: Therefore the profit of Baptiſm is great to the Infants of Chriſtians: For Baptiſm is not leſs profitable then Circumciſion was, neither are ſuch Infants leſs capable of the profit of Baptiſm then ſuch were of the profit of circum<g ref="char:EOLhyphen"/>ciſion.</p>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>2</label> II. By Baptiſm Infants of Chriſtians are ſolemnly <hi>conſecrated</hi> to the Lord,<note place="margin">Matth. 28.19.</note> and <hi>his name is put upon them:</hi> Per illum conſe<g ref="char:EOLhyphen"/>cramur patri, filio, &amp; ſpiritui ſancto, eorum nomina ſuper bapti<g ref="char:EOLhyphen"/>zatos vocantur: <hi>Ameſ. Medull.</hi> p. 187. Therefore the profit of it is great to ſuch Infants, for it is no light matter to be <hi>conſe<g ref="char:EOLhyphen"/>crated to him</hi> and <hi>called by his name.</hi>
+                  <note place="margin">Deut. 28.10.</note>
+               </p>
+               <p n="3">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>3</label> III. By Baptiſm Infants of Chriſtians are ſolemnly initiated into the Church:<note place="margin">1. Cor. 12 13.</note> for Baptiſm is the Sacrament and ordinary means of initiation into it: Therefore the profit of it is great to them;<note place="margin">Iſai. 65.4.7.</note> for it is a great priviledg to have a viſible ſtanding in the Church: This is evident by the contrary; the viſible <hi>breaking off</hi> of the Jews and their ſeed that they ſhould no more be accounted to the Church then Infidels, was the greateſt evil that ever befel them: and <hi>Excommunication,</hi> which is a viſible caſting out of the Church, is a dreadful thing; it is a <hi>delivering up to Satan,</hi> and a putting the party viſibly in his Kingdom, in which all vi<g ref="char:EOLhyphen"/>ſibly are that have not a viſible ſtanding in the Church.</p>
+               <p n="4">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>4</label> IV. By Baptiſm Infants of Chriſtians are ſolemnly initiated <hi>into Chriſts death,</hi>
+                  <note place="margin">Rom. 6.3.</note> for Baptiſm is a viſible participation of it by way of initiation: <hi>Per modum initiationis:</hi> Ameſ. Medul. p. 188 (as <hi>eating things offered to Idols is fellowſhip with devils;</hi>
+                  <note place="margin">1 Cor. 10.</note>) By it the unſpeakable benefit of Chriſts death is abſolutely ſealed to as many as ſtand to the agreement: Therefore the profit of it is great to ſuch Infants.</p>
+               <p n="5">
+                  <pb n="37" facs="tcp:161669:23"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>5</label> V. Baptiſm is a ſtrong ingagement to repentance from dead works to ſerve the living God:<note place="margin">Matth. 3.11.</note> It is called <hi>Baptiſm unto repen<g ref="char:EOLhyphen"/>tance:</hi> Eo ad ſerium dei colendi ſtudium non mediocriter ſti<g ref="char:EOLhyphen"/>mulamur,<note place="margin">Gal. 5.3.</note> 
+                  <hi>Calv.</hi> as Circumciſion was in the time of it an in<g ref="char:EOLhyphen"/>gagement to ſerve the Lord according to the tenor of that Ad<g ref="char:EOLhyphen"/>miniſtration: Therefore the profit of it is great,<note place="margin">Iſai 49.1, 5. Pſal 58.3.</note> for God hath formed us to <hi>ſerve him from the womb,</hi> and <hi>we are apt to go a<g ref="char:EOLhyphen"/>ſtray from the womb.</hi>
+               </p>
+               <p n="6">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>6</label> VI. Baptiſm is an ordinary means of the ſalvation of thoſe <hi>of whom the Kingdom of God is,</hi> and neceſſary as a means:<note place="margin">1 Pet. 3.21,</note> 
+                  <hi>Bap<g ref="char:EOLhyphen"/>tiſmus eſt neceſſarius ad ſalutem, non tantum ut res praecepta, ſed etiam ut ſalutis medium ordinarium,</hi> Ameſ. Bellar. <hi>enervat.</hi> Therefore the profit of Baptiſm is great to the Infants of Chri<g ref="char:EOLhyphen"/>ſtians, <hi>the Kingdom of God being of ſuch.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>
+                  </label> 
+                  <hi>Baptiſm is a means of the ſalvation only of thoſe that have Faith and the anſwer of a good Conſcience, and not of In<g ref="char:EOLhyphen"/>fants.</hi>
+               </p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 1. Faith and the <hi>anſwer of a good Conſcience</hi> are neceſſary only in thoſe of riper years, that Baptiſm may be effectual to them for Salvation, and not in ſuch Infants, for theſe are not neceſſary in them to ſalvation. 2. Baptiſm is compared to the <hi>Ark,</hi> and is ſaid <hi>to ſave,</hi> as the Ark ſaved from the flood of waters, in which ſome had a temporal deliverance (which was a type of,<note place="margin">1 Pet. 3 21.</note> and help to eternal ſalvation) which yet after periſhed.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>2</label> 
+                  <hi>It is uncertain whether any individual Infant ſhall receive any profit by Baptiſm.</hi>
+               </p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 1. It is certain Baptiſm is as profitable to Infants of Chriſtians as Circumciſion was to Infants of Gods people in the time of it: and that every ſuch Infant baptized is ſolemnly dedicated to the Lord, initiated into the Church, and into Chriſts death, and made a debtor to ſerve the Lord in righteouſneſs and holineſs all the days of his life, and is by it ſet upon the advantage ground for ſalvation. 2. There is not to us any infallible certainty that Baptiſm adminiſtred to any actual profeſſor, ſhall be effectual to him to ſalvation: <hi>John Baptiſt</hi> and the Apoſtles could not ſay of any individual, this man ſhall be baptized with the holy Ghoſt and be ſaved: They baptized Individuals, as <hi>David</hi> prayed for his ſick Child, namely,<note place="margin">2 Sam. 22.12.</note> becauſe he did not know but the Lord
+<pb n="38" facs="tcp:161669:24"/> might hear him; he ſaid, <hi>who can tell but the Lord may be gra<g ref="char:EOLhyphen"/>cious unto me that the Child may live?</hi> and there is ground of hope of the effectualneſs of Baptiſm in the Infants of Chriſtians as well as in actual Profeſſors, becauſe God hath promiſed to be <hi>a God of the ſeed of his people,</hi> and to <hi>circumciſe their hearts,</hi> and hath commanded them to hang upon him their iſſue and their off-ſpring,<note place="margin">Iſai. 22.24.</note> and required them to be <hi>accounted a ſeed</hi> that he hath bleſſed,<note place="margin">Iſai. 61.8, 9.</note> and hath declared <hi>that the Kingdom of God is of them, &amp;c.</hi>
+               </p>
+            </div>
+            <div n="6" type="argument">
+               <head>
+                  <hi>ARGUMENT VI.</hi> The Promiſe was ſealed by the initial Sacrament aforetime to Infants of viſible Profeſſors, ſeeking it for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, both Iews and of the Gentiles, <hi>therefore</hi> it may be ſealed to the Infants of Chriſtians by the initial Sacrament.</head>
+               <p>THE <hi>Conſequence</hi> I prove by ſix Arguments.</p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>1</label> I. The principal promiſe ſealed aforetime (which was the promiſe of propriety in God) is not made voyd. For, 1. It was not a temporary promiſe,<note place="margin">Gen. 17.7. Heb. 8 7. Eph. 2.14.</note> for that promiſe was <hi>faultleſs,</hi> and it was no part of the <hi>partition wall broken down</hi> by Chriſt. 2. In<g ref="char:EOLhyphen"/>fants of Chriſtians are as faultleſs as the infants of Gods people in the former adminiſtration, undeniably included in it: Therefore it may be ſealed to the infants of Chriſtians by the initial Sacra<g ref="char:EOLhyphen"/>ment in this diſpenſation.</p>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>2</label> II. Sealing that promiſe by an initial Sacrament to infants of Gods people (which was the ſubſtance of Circumciſion, and a diſtinct thing from it) did not of right ceaſe with the <hi>Jewiſh</hi> Church-State: For it was not peculiar to that Church as a nati<g ref="char:EOLhyphen"/>onal Church: For, 1. That promiſe was ſealed to infants by the initial Sacrament long before the exiſtence of a national Church,<note place="margin">Gen. 17.</note> and to infants of ſtrangers, which were not of that Nati<g ref="char:EOLhyphen"/>on. 2. Sealing the promiſe by an initial Sacrament is principally in reference to the Catholick Church, for ſhews of grace are ſuffi<g ref="char:EOLhyphen"/>cient
+<pb n="39" facs="tcp:161669:24"/> to it,<note place="margin">Acts 8.36, 37 c. 10.47</note> though the parties have not joyned themſelves to any particular Church; and one that cannot be rightly iudged to be of the <hi>Catholick Church,</hi> cannot have the promiſe rightly ſealed to him by an initial Sacrament, though he be a Member of a particu<g ref="char:EOLhyphen"/>lar Church.</p>
+               <p n="3">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>3</label> III. Sealing the promiſe by the initial Sacrament in this diſ<g ref="char:EOLhyphen"/>penſation, is upon ſuch terms as the ſealing of it was in the for<g ref="char:EOLhyphen"/>mer; Faith and repentance were no leſs required in the former then in the preſent diſpenſation: <hi>Fides et reſipiſcentia non ma<g ref="char:EOLhyphen"/>gis am conſtituunt foedus dei, quàm tempore Abrahami.</hi> Ameſ. The <hi>ſeal</hi> is changed, but not the <hi>Faith: Sacramenta ſunt muta<g ref="char:EOLhyphen"/>ta, non fides.</hi> Auguſt. God indented with <hi>Abraham</hi> to <hi>walk be<g ref="char:EOLhyphen"/>fore him, and to be perfect,</hi>
+                  <note place="margin">Gen 17.2</note> before ſealing the promiſe to him by the initial Sacrament,<note place="margin">Rom. 4.11</note> and that Sacrament was called <hi>the ſeal of the righteouſneſs of Faith;</hi> yea, a greater meaſure of Faith might ſeem neceſſary aforetime,<note place="margin">Heb. 11.13 Rom. 13.11</note> for they were to behold things afar off, which to us are nearer, and there was a <hi>vayl</hi> of Ceremonies upon things, which are to us open and naked: Therefore the pro<g ref="char:EOLhyphen"/>miſe may be ſealed to Infants of Chriſtians in this diſpenſation by the initial Sacrament.</p>
+               <p n="4">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>4</label> IIII. Infants of Chriſtians are as capable of the promiſe, and ſealing of it by the initial Sacrament, as the Infants of Gods peo<g ref="char:EOLhyphen"/>ple were aforetime; for there is not in them a greater abſence of Faith, Knowledg, &amp;c. neither is there leſs innocency and ability to bear it: Infants of Chriſtians are now as able to indure ſprink<g ref="char:EOLhyphen"/>ling or waſhing with water, as Infants of Gods people aforetime the cuting with the knife. Therefore the promiſe may be ſealed to the Infants of Chriſtians by the initial Sacrament.</p>
+               <p n="5">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>5</label> V. The initial Sacrament, in this diſpenſation, is as applyable to Infants of Chriſtians as the initial Sacrament aforetime was to Infants of Gods people. For, 1. It is as paſſive, and no more a<g ref="char:EOLhyphen"/>ction is required in the ſubject: <hi>Nulla actio externa requiritur ut in alijs Sacramentis.</hi> Ameſ. Yea, it is more facil and common in the Adminiſtration, and needs not a reſtriction to the <hi>male,</hi> as that aforetime did. 2. It is the ſame Sacrament in this diſpen<g ref="char:EOLhyphen"/>ſation that the other was in the former: <hi>Sacramentia illa in ſig<g ref="char:EOLhyphen"/>nie diverſa, in rebus paria.</hi> Auguſt. For, 1. They are both ini<g ref="char:EOLhyphen"/>tial Sacraments of the Covenant of grace. 2. They are both
+<pb n="40" facs="tcp:161669:25"/> the firſt Ceremonies uſed about thoſe that may rightly be judged to be in the promiſe, and accounted of the Church. 3. As Cir<g ref="char:EOLhyphen"/>cumciſion was rightly adminiſtred to thoſe only that might be accounted to the Church, ſo is Baptiſm: <hi>Nemo extra eccleſiam baptizandus.</hi> Cyp. Ep. ad Januar. 4. As Circumciſion was the only ordinary way of entrance into the Church aforetime,<note place="margin">1 Cor. 12.13 Exod. 12.48</note> ſo is baptiſm. 5. As no uncircumciſed perſon might communicate with the Church in the paſſeover, ſo no unbaptized perſon did eat the Lords Supper in the Apoſtles times.<note place="margin">Acts 2.41, 42 Gal. 5.3.</note> 6. As Circumciſion was an engagement to obſervancy of the Covenant, according to the tenor of the former Adminiſtration, ſo is Baptiſm an engage<g ref="char:EOLhyphen"/>ment to obſervancy of it according to the tenor of the preſent; it is called <hi>Baptiſm unto repentance,</hi> and <hi>of repentance;</hi>
+                  <note place="margin">Matthew 3.11 Luke 3.3 Romans 6: 3 Epheſ. 4.1, 5</note> and the Apoſtle argues againſt <hi>living in ſin</hi> from Baptiſm, and for an holy life becoming the Goſpel: and <hi>Luther</hi> reports of a Virgin that repelled all temptations to ſin with <hi>baptizata ſum:</hi> i. e. <hi>I am bap<g ref="char:EOLhyphen"/>tized.</hi> 7. As Circumciſion was a ſign of mortification, and <hi>put<g ref="char:EOLhyphen"/>ting off the body of ſin,</hi>
+                  <note place="margin">Deut. 10.16 Col. 2.11 Romans 6.3 Col. 2.12</note> ſo is Baptiſm: We are ſaid to be <hi>buryed by Baptiſm with Christ;</hi> and that Baptiſm ſhould be the ſign hereof in this diſpenſation, it ſeems to be foreſeen by the Prophet <hi>Jeremiah,</hi>
+                  <note place="margin">Ieremiah 4.14</note> who cals <hi>Circumciſion of the heart, waſhing of the heart from wickedneſs.</hi> 8. As Circumciſion was an external <hi>ſeal of the righteouſneſs of Faith,</hi>
+                  <note place="margin">Romans 4 11 1 Sam. 17.36 Gen. 34.14</note> ſo is Baptiſm. 9. As Cir<g ref="char:EOLhyphen"/>cumciſion was a <hi>ſign,</hi> diſtinguiſhing the people of God from In<g ref="char:EOLhyphen"/>fidels, ſo is Baptiſm. 10. As Circumciſion ſealed both tempo<g ref="char:EOLhyphen"/>ral and ſpiritual promiſes, ſo doth Baptiſm: for in the Covenant in this diſpenſation are both, as well as in the former, and Chri<g ref="char:EOLhyphen"/>ſtians have Chriſt,<note place="margin">Matthew 5 Matthew 6.33 Romans 8.32</note> and all other things by the ſame Charter. 11. Circumciſion, of right, ended when Baptiſm began to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an initial Sacrament, for Chriſts Circumciſion was the period of it, and it ceaſed to be needful ſo ſoon as <hi>John</hi> began to baptize,<note place="margin">Luke 16.16</note> for <hi>the Law</hi> is ſaid to continue <hi>but until John.</hi> Laſtly, The Apoſtle plainly teaches, that Baptiſm is the ſame Sacrament to Chriſtians that Circumciſion was to Gods people aforetime:<note place="margin">Col. 2. 11, 12</note> 
+                  <hi>Demonſtrat id eſſe baptiſmum Chriſtianis quod antca fuerit Judaeis Circum<g ref="char:EOLhyphen"/>ciſio.</hi> Calv. inſtit. Arguing againſt the continuance of Circum<g ref="char:EOLhyphen"/>ciſion, in this diſpenſation, he uſes two Arguments, which argue no leſs. For, 1. Chriſt being come (who was the body of the
+<pb n="41" facs="tcp:161669:25"/> old ſhadows) they of right ceaſed. 2. That Baptiſm was now the ſign of our mortification, for which Circumciſion ſerved a<g ref="char:EOLhyphen"/>foretime: <hi>Oſtendit quòd adempti ſumus eam in Baptiſmo.</hi> Aquin.</p>
+               <p n="6">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Argum. </seg>6</label> VI. Nothing can be ſoundly collected from the Scriptures a<g ref="char:EOLhyphen"/>gainſt ſealing the promiſe to Infants of Gods people in this diſ<g ref="char:EOLhyphen"/>penſation, by the initial Sacrament of it, as aforetime by the ini<g ref="char:EOLhyphen"/>tial Sacrament. For,</p>
+               <p n="1">1. The aboliſhing Circumciſion (the initial Sacrament afore<g ref="char:EOLhyphen"/>time) is no Argument againſt it, as the aboliſhing of Sacrifices uſed aforetime in making ſolemn Covenant with God,<note place="margin">Pſalm 50.5</note> is no Ar<g ref="char:EOLhyphen"/>gument againſt ſolemn Covenant with God in the time of the Goſpel. For, 1. Circumciſion was a diſtinct thing from ſealing the promiſe, and only a ceremony of it for a time. 2. The out<g ref="char:EOLhyphen"/>ward ſign is ceaſed, not the ſubſtance ſignified by it: <hi>Circumci<g ref="char:EOLhyphen"/>ſio ſuum habet externum, quaſi corpus mortale; et ſuum inter<g ref="char:EOLhyphen"/>num quaſi animam immortalem, prius aboletur non poſterius,</hi> Zanch. The ſealing of the promiſe is not ceaſed, for ſeals are ad<g ref="char:EOLhyphen"/>ded in this diſpenſation to the Covenant. 3. Baptiſm the initial ſeal, is more facil to Infants then Circumciſion was, which was the initial ſeal aforetime.</p>
+               <p n="2">2. Nothing appears in <hi>Iohn Baptiſts Commiſſion,</hi> inconſiſtent with ſealing the promiſe by the initial Sacrament to Infants of Chriſtians; he mentions an alteration of the <hi>ceremony,</hi> but no change of the <hi>ſubject,</hi>
+                  <note place="margin">John 1.33</note> nor yet in the <hi>execution of his Commiſſion</hi> is there any thing apparently againſt it. If it be alledged, that he preached repentance before he ſealed the promiſe to any by the initial Sacrament. <hi>I anſwer;</hi> ſo alſo was the Goſpel preached aforetime,<note place="margin">Galathia. 3.8</note> before the promiſe was ſealed to any by the initial Sa<g ref="char:EOLhyphen"/>crament, yet it was ſealed to the Infants of Gods people by the initial Sacrament. If any plead, that men confeſſed ſins, and ſhew<g ref="char:EOLhyphen"/>ed ſigns of grace, before the promiſe was ſealed to them by the initial Sacrament: <hi>I anſwer,</hi> no leſs did <hi>Abraham,</hi> and all of ri<g ref="char:EOLhyphen"/>per years, in the former diſpenſation, before the ſealing the pro<g ref="char:EOLhyphen"/>miſe to them by the initial Sacrament thereof. Alſo, <hi>Iohn Bap<g ref="char:EOLhyphen"/>tiſt</hi> (who beſt underſtood his Commiſſion) affirmed, that he <hi>baptized with water unto repentance,</hi>
+                  <note place="margin">Matthew 3.11</note> which is conſiſtent with Baptiſm of Infants of Chriſtians.</p>
+               <p n="3">
+                  <pb n="42" facs="tcp:161669:26"/>3. It doth not appear, that Chriſt (the Author of the now initial ſeal) did aboliſh the ſealing the promiſe by an initial ſeal to Infants of Gods people. For, 1. He brake down only the <hi>partition wall,</hi> of which the promiſe of propriety in God, and ſealing it by an initial Sacrament to Infants of Gods people were no part, though Circumciſion (the initial ſeal for a time) was a part thereof: <hi>Chriſtus leg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m a Moſe latam, non ſuſtul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, niſi quatenus gentes à Iudaeis ſeparabat:</hi> Rive<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. in decal. 2. Abo<g ref="char:EOLhyphen"/>liſhing the former initial Sacrament, he inſtituted another more facil to Infants. 3. There is no more in Infants of Gods peo<g ref="char:EOLhyphen"/>ple, in this diſpenſation againſt it, then was in ſuch Infants afore<g ref="char:EOLhyphen"/>time. 4. He <hi>with anger rebuke his Diſciples,</hi> for deſpiſing the day of ſuch ſmall things, and gave them nothing in Commiſſion inconſiſtent with it; for the ſum of their Commiſſion was, that they ſhould <hi>Diſciple the Nations</hi> (which were ſtrangers from the Covenant,<note place="margin">Mat. 28.19, 20</note>) <hi>baptizing them and teaching them to do all things which he commanded,</hi> which was the method God uſed himſelf in the former diſpenſation,<note place="margin">Gen. 17.1</note> for he diſcipled <hi>Abraham</hi> be<g ref="char:EOLhyphen"/>fore he ſealed the promiſe to him, and his males, by the initial Sa<g ref="char:EOLhyphen"/>crament of it. All that can be ſoundly concluded, is, that all of riper years ſhould be diſcipled before baptiſm: <hi>Senſus eſt, qui adult â ſunt aetate, ante ſunt instituendi quàm baptizandi; non ſi ſe rumpant aliud ex hoc loco oſtendent.</hi> Calv. And that the Apoſtles repulſed Chriſtians deſiring ſealing the promiſe by the initial Sacrament to their Infants,<note place="margin">Acts 2.29 1 Cor. 7.14</note> doth not appear; but the con<g ref="char:EOLhyphen"/>trary is rather to be beleeved, for they judged children of Chriſti<g ref="char:EOLhyphen"/>ans in the promiſe, and <hi>foederally holy</hi> as well as their parents; and baptized Chriſtians, and all theirs (where it was deſired;) of which ſufficient inſtances (as witneſſes) are left us upon record.</p>
+               <p>Therefore I conclude, that the promiſe of propriety in God, being ſealed to Infants of Gods people in the former diſpenſati<g ref="char:EOLhyphen"/>on by the initial Sacrament thereof: It may be ſealed to Infants of Chriſtians in this diſpenſation by the initial ſeal of it.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>1</label> 
+                  <hi>The Covenant ſealed aforetime to Infants of Gods people by an initial Sacrament, was much differing from that whereof Baptiſm is the initial Sacrament, for that was not purely E<g ref="char:EOLhyphen"/>vangelical, but a mixt Goſpel-Covenant, conſiſting partly of E<g ref="char:EOLhyphen"/>vangelical promiſes, appertaining to Beleevers, as ſuch; and
+<pb n="43" facs="tcp:161669:26"/> partly of domeſtick and civil promiſes, both which were ſealed by the initial Sacrament of that time, which, for that cauſe, might be adminiſtred to ſome which could not be rightly ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ged Beleevers: But the Covenant whereof Baptiſm is the initial Sacrament, is purely Evangelical; conſiſting of promiſes be<g ref="char:EOLhyphen"/>longing only to Beleevers, as ſuch.</hi>
+               </p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 1. Spiritual and temporal promiſes may be ſaid to make a mixt Covenant, but not a mixt Evangelical Covenant, for a mixt Goſpel-Covenant is a Covenant partly of works, and partly of grace, and the Covenant of which Circumciſion was the initial Sacrament, was not mixed after that manner, for the Law was not given until four hundred thirty years after it,<note place="margin">Galat. 3.17</note> and then it was not mixed with it, but only annexed to it.</p>
+               <p n="2">2. The difference was only in the diſpenſation, and not in the ſubſtance of the Covenant; the Covenant of which Circumciſion was the initial Sacrament, was as purely E<g ref="char:EOLhyphen"/>vangelicall, as this, whereof Baptiſm is the initial Sa<g ref="char:EOLhyphen"/>crament; for the Goſpel is ſaid <hi>to be preached unto them as well as to us,</hi>
+                  <note place="margin">Galat. 3.8 Heb. 3.19 Matthew 5.5 Matth. 6.33 Rom 9.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2 Ezek. 36.25 30</note> and the temporal promiſes were Evan<g ref="char:EOLhyphen"/>gelical, and belonged to Beleevers, as ſuch, for becauſe of un<g ref="char:EOLhyphen"/>belief many obtained them not. Alſo, there are temporal pro<g ref="char:EOLhyphen"/>miſes in this diſpenſation, and the people of God have Chriſt, and all other things by the ſame Charter.</p>
+               <p n="3">3. The promiſes ſealed in the former diſpenſation were prin<g ref="char:EOLhyphen"/>cipally ſpiritual: <hi>Certò certius est primarias promiſſiones ſub veteri teſtamento ſpirituales fuiſſe.</hi> Calv.<note place="margin">Heb. 11.13</note> For the Fathers had temporal things little in their eye, they ſought a better Country then <hi>Canaan;</hi>
+                  <note place="margin">Rom 15.8 9</note> and Chriſt (who is called the Miniſter of Circum<g ref="char:EOLhyphen"/>ciſion for the confirming the promiſes made to the Fathers) did not reſtore to the <hi>Iews</hi> temporal things; when he came, the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> did tyrannize over them, and he brake not <hi>their yoak from their neck,</hi> and not long after their Country was utterly deſtroy<g ref="char:EOLhyphen"/>ed. Alſo the <hi>Gentiles</hi> that did not take hold of that Covenant are ſaid to be without Chriſt, hope and God. Yea,<note place="margin">Epheſ. 2.12</note> ſpiritual promiſes only were ſealed by the initial Sacrament to many In<g ref="char:EOLhyphen"/>fants; for the promiſe of <hi>Canaan,</hi> and other civil and domeſtick promiſes were not ſealed by it to Infants of Converts of the <hi>Gentiles,</hi> for theſe things did not appertain to them, but to the
+<pb n="44" facs="tcp:161669:27"/> natural ſeed of <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>braham.</hi> Alſo, only ſpiritual promiſes were ſealed by it to Infants dying in infancy, and if theſe were not ſealed to them none were,<note place="margin">Rom 3.1, 2</note> and their bodies were wounded, and their ſouls were not profited, and Circumciſion was a puniſh<g ref="char:EOLhyphen"/>ment, and no benefit, which is contrary to the Scripture.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>2</label> 
+                  <hi>Circumciſion was adminiſtred to ſome, to whom the Covenant did not extend, as to</hi> Iſhmael, <hi>and others; and it was not admini<g ref="char:EOLhyphen"/>ſtred to ſome, to whom the Covenant did extend, as to</hi> Melchize<g ref="char:EOLhyphen"/>deck, Job, Lot, <hi>Infants not</hi> 8 <hi>days old, and women.</hi>
+               </p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 1. Circumciſion could not rightly be adminiſtred to any that could not be rightly judged in the Covenant, for it is called the Covenant,<note place="margin">Gen. 17.10</note> and the <hi>token of it,</hi> therefore might not be carryed beyond it. Alſo, <hi>Iſhmael</hi> was rightly judged in the Covenant when he was circumciſed, (though he was not in it for life, as appeared afterwards,) for he was the ſeed, and of the family of <hi>Abraham,</hi> and not then actually broken off.</p>
+               <p n="2">2. It is uncertain, whether Circumciſion were inſtituted in the days of <hi>Melchizedeck, Job</hi> and <hi>Lot;</hi> and if it were, it is uncer<g ref="char:EOLhyphen"/>tain whether the inſtitution of it came to their knowledg, they being removed far from <hi>Abraham:</hi> and if both theſe could be known, it is uncertain that they were not circumciſed, and certain that they might have been circumciſed, and moſt probable that they were, if that there were not ſome lets, and in ſuch caſes ſome of the <hi>Iſraelites</hi> were not circumciſed,<note place="margin">Joſhuah 5.5</note> for Circumciſion was in<g ref="char:EOLhyphen"/>termitted fourty years in the wilderneſs.</p>
+               <p n="3">3. Infants, not eight days old, had a diſpenſation, not having ſtrength to indure, and women, not having a natural capacity, or to prevent the tranſgreſſing the bounds of modeſty in circum<g ref="char:EOLhyphen"/>ciſing them, or perhaps it was denyed that ſex for a chaſtiſement, becauſe the woman was firſt in the tranſgreſſion of the firſt Co<g ref="char:EOLhyphen"/>venant.</p>
+               <p n="3">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>3</label> 3. <hi>In the former dispenſation all the ſeed of Abrahams fleſh, were his ſeed, and therefore they might have the promiſe ſealed to them by the initial Sacrament: But in this, only ſuch as have Abrahams faith are to be accounted his ſeed, which Infants not having, they cannot be accounted his ſeed, therefore they cannot have the Promiſe rightly ſealed to them by the initial Sacrament.</hi>
+               </p>
+               <p n="1">
+                  <pb n="45" facs="tcp:161669:27"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 1. They which, being of riper years, have not <hi>viſible faith,</hi> cannot be accounted <hi>Abrahams</hi> ſeed, yet Infants of Chriſtians are rightly accounted his ſeed without it. For 1. the S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ripture ſpeaks expreſly that the faithful are the ſeed of the bleſſed of the Lord, and their off ſpring with them.<note place="margin">Iſa. 65.23.</note> 2. The Converts of the Gentiles and their Infants aforetime were rightly accounted the ſeed of <hi>Abraham,</hi>
+                  <note place="margin">Exod. 12 49.</note> the <hi>ſtranger was to be accounted as he that was home-born:</hi> and it muſt be granted that they were to be accounted the ſeed of his faith, for they were not the ſeed of his fleſh. 3. The moſt learned and rational of the <hi>Anabaptiſts</hi> confeſs that elect Infants are <hi>Abrahams</hi> ſpiritual ſeed, yet there is not in them viſible faith. 4. The Lord calls the Infants of viſible Profeſſors, <hi>his Children;</hi> and their ſeed, <hi>the ſeed of God:</hi>
+                  <note place="margin">Eze 16.20, 21 Mal. 2 15. Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k 10.14.</note> therefore the Infants of ſuch may be called the ſeed of <hi>Abraham.</hi> 5. Chriſt on earth affirmed <hi>the Kingdom of God to be of ſuch,</hi> therefore they may be accounted to <hi>Abrahams</hi> family. 6. Chriſt numbred ſuch with beleevers, and the Apoſtle judged ſuch to be in the promiſe, and denominated them <hi>holy:</hi> therefore they may be accounted the ſeed of <hi>Abrahams</hi> faith. 7. They cannot be denominated Infidels becauſe they have not viſible faith; as they cannot be denominated unreaſonable, becauſe they have not viſible reaſon, nor dumb becauſe they ſpeak not; it not be<g ref="char:EOLhyphen"/>ing the time in which they may, and ought to have viſible faith: <hi>
+                     <g ref="char:V">Ʋ</g>t aliquid privatum dicatur, eo tempore quo adeſſe debuit for<g ref="char:EOLhyphen"/>ma, abſit:</hi> The <hi>Anabaptiſts</hi> muſt either account them to Belee<g ref="char:EOLhyphen"/>vers, or to Infidels, or a third party; which if they do, it will be needful that they bethink themſelves of a third place for them <hi>(a limbus Infantum)</hi> when they dye. 9. <hi>Perkins in Galat. p.</hi> 263. affirms it the ancient received doctrine of the Church; that their being born in the boſom of the Church (which is Gods family) of his ſervants (which take hold of his Covenant) ſupplies in them the abſence of viſible faith; and the ancients did abhor the accounting them Infidels: <hi>Abſit ut ego dicam non credentes infantes,</hi> Auguſt. <hi>de Baptiſ.</hi> and judged them Hereticks that did not account them to Beleevers: <hi>Inter credentes baptizatos parvulos numerabis, niſi vis eſſe hereticus;</hi> Auguſt. <hi>ad Pelagium.</hi>
+               </p>
+               <p n="2">
+                  <pb n="46" facs="tcp:161669:28"/>2. The ſealing of the Promiſe aforetime by the initial Sacrament to Infants and others, was to them primarily as the ſeed of <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> faith, for ſuch as were viſibly wicked, ſo that they could not be accounted to the ſeed of his faith,<note place="margin">Iſai. 1.10. Je<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 9.25.26. Amos 9 7.</note> were no more regarded of God then <hi>Sodomites, Ethiopians, Ammonites, &amp;c.</hi> and they were viſibly out of the Promiſe for life (though they were <hi>Abrahams</hi> natural ſeed) as well as Gentiles; and many of them obtained not the temporal Promiſes given to <hi>Abraham.</hi> The being <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> natural ſeed was no priviledg to ſuch as were notoriouſ<g ref="char:EOLhyphen"/>ly and incorrigibly wicked,<note place="margin">Matth. 3.9.</note> that they could not be judged the ſeed of his faith.</p>
+               <p n="4">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>4</label> 4. <hi>There was an expreſs Commandment aforetime for ſeal<g ref="char:EOLhyphen"/>ing the Promiſe by the initial Sacrament to the Infants of Gods people: But there is no ſuch commandment in this dispen<g ref="char:EOLhyphen"/>ſation, but the practice of baptizing Infants is upheld by weak Arguments from the Old Teſtament.</hi>
+               </p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> I. It is moſt inſufferable hypocriſie in the Anabaptiſts ſo rigidly to exact an expreſs commandment in this particular and to refuſe ſatisfaction by ſound collections from the Scriptures of the Old and New Teſtament: ſeeing that they cannot produce an expreſs commandment for any thing which is proper to their way. For,</p>
+               <p n="1">1. What expreſs commandment can they ſhew for <hi>despi<g ref="char:EOLhyphen"/>ſing of dignities,</hi> and for inſurrections of private men againſt Magiſtrates, which was their practice in <hi>Germany? Magi<g ref="char:EOLhyphen"/>strates</hi> (though unrighteous) are called <hi>gods</hi> and <hi>ſons of the moſt high,</hi>
+                  <note place="margin">Pſalm 82 6. Exod. 22 28. Rom. 13.1. 2 Pet. 2 10. Jude 8.</note> and reviling of them is forbidden, and ſubjection to them commanded, and deſpiſing of them made a character of an Heretick.</p>
+               <p n="2">2. What expreſs Commandment can they produce for un<g ref="char:EOLhyphen"/>churching all reformed Churches, and pronouncing them Anti<g ref="char:EOLhyphen"/>chriſtian, for baptizing Infants of Chriſtians?</p>
+               <p n="3">3. What expreſs Commandment can they ſhew for <hi>railing accuſations</hi> they bring againſt all faithful Miniſters, which <hi>la<g ref="char:EOLhyphen"/>bor in the Word,</hi>
+                  <note place="margin">Ier. 3.15.</note> and feed people with knowledg and under<g ref="char:EOLhyphen"/>ſtanding, (many of which God hath uſed in the converſion of many ſouls to him) becauſe they baptize Infants of Chriſtians? <note place="margin">Iude 9.</note>The Angel dared not <hi>bring a railing accuſation againſt the
+<pb n="47" facs="tcp:161669:28"/> devil,</hi> and they that deſpiſe faithful Miniſters are deſpiſers of Chriſt, 1 <hi>Theſ.</hi> 4.8.<note place="margin">Luke 10 16</note>
+               </p>
+               <p n="4">4. What expreſs Commandment can they ſhew for <hi>preach<g ref="char:EOLhyphen"/>ing of private men</hi> without abilities and authority? Mechanick fellows (not trained up in the ſtudy of divinity) they allow to be preachers, of whom it may be rightly ſaid, which <hi>Jerome</hi> complained of ſome, <hi>docent priuſquam diſcant,</hi> i. e. <hi>they teach before they have learned themſelves:</hi> and which the Apoſtle before him of ſome, <hi>they deſire to be teachers,</hi>
+                  <note place="margin">1 Tim. 1 7.</note> 
+                  <hi>underſtanding neither what they ſay, nor whereof they affirm;</hi> and they ac<g ref="char:EOLhyphen"/>count their babblings and railings the only Goſpel, as <hi>Montanus</hi> did the dreams of his two harlots, <hi>Priſca</hi> and <hi>Maximilla.</hi> They all take upon them to be preachers; <hi>Sumunt ſibi omnes prae<g ref="char:EOLhyphen"/>dicandi officium;</hi> Gaſti. In the Apoſtles days all were not Pro<g ref="char:EOLhyphen"/>phets, they taught that <hi>Chriſt gave only <hi>ſome</hi> Prophets,</hi>
+                  <note place="margin">1 Cor. 12.29. Eph. 4.</note> 
+                  <hi>and <hi>ſome</hi> Paſtors and Teachers,</hi> and that none might be a Preacher except he <hi>were ſent</hi> (that is,<note place="margin">Rom. 10.14</note> had authority rightly conferred up<g ref="char:EOLhyphen"/>on him, and abilities given to him;<note place="margin">1 Cor. 7 20</note>) and that men <hi>muſt abide in their callings:</hi>
+                  <note place="margin">2 Cor. 2.16</note> and they thought none ſufficient enough for preaching the Goſpel, much leſs not ſuch, as neither were trai<g ref="char:EOLhyphen"/>ned up for it, nor yet extraordinarily gifted: Alſo Chriſt (who had the greateſt abilities) took not upon him to preach until he was called to it: until the voyce from heaven,<note place="margin">Heb. 5 4 Mat. 3 17 Mat. 28.19</note> 
+                  <hi>this is my belo<g ref="char:EOLhyphen"/>ved Son, hear him:</hi> and his Apoſtles, beſides abilities, had a commiſſion to preach the Goſpel.</p>
+               <p>It was a great ſin in <hi>Ieroboam,</hi> to ſuffer common people to ex<g ref="char:EOLhyphen"/>ecute the legal Miniſtry,<note place="margin">1 King. 12, 31</note> and private men met with exemplary puniſhment from Heaven for meddling with it,<note place="margin">2 Cor. 3 8.</note> and the Mini<g ref="char:EOLhyphen"/>ſtry of the Goſpel is much more glorious.</p>
+               <p>The taking away Prophets and Teachers from people,<note place="margin">Iſaiah 3.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> is threa<g ref="char:EOLhyphen"/>tened as a heavy judgment, and much lamented: but if common people can propheſie and teach, what puniſhment is it?</p>
+               <p n="5">5. What expreſs Commandment is there for <hi>ſtripping</hi> and <hi>dipping</hi> ſilly women? which hath occaſioned the death of ſome, and the defiling of others?</p>
+               <p n="6">6. What expreſs Commandment can they ſhew for liberty to hold erroneous opinions, and to divulge them, which they call <hi>Liberty of Conſcience?</hi> but is indeed <hi>Licentious Errour.</hi>
+               </p>
+               <pb n="48" facs="tcp:161669:29"/>
+               <p>
+                  <note place="margin">Deut. 29.14.5</note>In <hi>Moſes</hi> days the people covenanted, not only that them<g ref="char:EOLhyphen"/>ſelves preſent, but all of them abſent, with themſelves, ſhould walk after the Lord, which they could not have done, if men ought to have ſuch a liberty: <hi>Joſiah</hi> and the people made <hi>a ſo<g ref="char:EOLhyphen"/>lemn Covenant to ſeek the Lord, and he cauſed the people to ſtand to it:</hi>
+                  <note place="margin">2 Chro 34.32 2 Chron. 15.13. Deut. 13 1.12</note> and <hi>Aſah</hi> made a law that if any did not ſtand to the Covenant he ſhould be put to death; and leſt not liberty for people to diſſent: God by <hi>Moſes</hi> commanded that <hi>falſe teach<g ref="char:EOLhyphen"/>ers ſhould not be tolerated:</hi> and it was propheſied that great ſe<g ref="char:EOLhyphen"/>verity ſhould be uſed againſt <hi>teachers of lyes</hi> under the Goſpel.<note place="margin">Zech 13.2.4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+               </p>
+               <p>
+                  <note place="margin">Gen. 17.</note>When God inſtituted <hi>Circumciſion,</hi> he gave no liberty (if any ſhould ſcruple it) to do otherwiſe, every male that was not circumciſed, was to be cut off.</p>
+               <p>In the moral Law, the ſtranger (in the Juriſdiction of the peo<g ref="char:EOLhyphen"/>ple of God) is not permitted to enjoy his opinion in following ſecular imployments on the day which the Lord hath ſanctified:<note place="margin">Exod. 20.</note> 
+                  <hi>Nulli cohabitanti permittitur Sabbathi diſſolutio.</hi> Lippom. <hi>Nehemiah</hi> threatned to lay hands on the Merchants of <hi>Tyre,</hi>
+                  <note place="margin">Neh 13 17. <hi>to</hi> 22</note> if they would not deſiſt from ſuch buſineſs on the Lords day.</p>
+               <p>
+                  <hi>The liberty of Conſcience,</hi> which we have by Chriſt, is only to hold the truth, and not a liberty to hold any error, though it be conceived by men a truth: the holy Scriptures and not mens phanſies are the touchſtone by which opinions are tryed:<note place="margin">Gal. 5.13.</note> and <hi>Chriſtian liberty</hi> is <hi>no occaſion to the fleſh.</hi>
+               </p>
+               <p>To theſe many more might be added, for which to bring an expreſs Command, or a ſound collection from Scriptures of the Old or New Teſtament, would be found very difficult.</p>
+               <p n="2">II. There is no neceſſity of an expreſs Commandment, for ſealing the promiſe to the Infants of Chriſtians in this diſpenſati<g ref="char:EOLhyphen"/>on by the initial Sacrament, as was for ſealing it to the Infants of Gods people by the initial Sacrament in the former; for Circum<g ref="char:EOLhyphen"/>ciſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, in the former adminiſtration, was the firſt initial ſeal ad<g ref="char:EOLhyphen"/>ded to the Covenant, and there was nothing for direction in the uſe of an initial ſeal before it: Alſo, Circumciſion was very pain<g ref="char:EOLhyphen"/>ful, and ſeemingly as dangerous for tender Infants, and to humane reaſon uncomely; it was a yoak too heavy to be born, and there<g ref="char:EOLhyphen"/>fore, not the leaſt part of the <hi>partition wall</hi> which kept out the
+<pb n="49" facs="tcp:161669:29"/> 
+                  <hi>Gentiles,</hi>
+                  <note place="margin">Acts 15.</note> for which cauſe there was a great neceſſity of an ex<g ref="char:EOLhyphen"/>preſs Commandment.</p>
+               <p n="3">3. The expreſs Commandment was not the principal reaſon of circumciſing Infants, and others, but the Covenant: <hi>Circum<g ref="char:EOLhyphen"/>ciſi olim Infantes propter foedus erant.</hi> Whitak. Contr. Durae. Circumciſion was called the Covenant, and the token of it,<note place="margin">Gen. 17.10, 14</note> and not the Commandment; and the contempt and wilful neglect of it was called the tranſgreſſion of the Covenant, and not of the Commandment: and deſpiſers were threatned to <hi>be cut off,</hi> for violation of the Covenant, not of the Commandment, &amp;c.</p>
+               <p n="5">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objection. </seg>5</label> 5. <hi>Arguing from Circumciſion for Baptiſm of Infants, is the way to introduce Judaiſm, and to ſubject the Church again to the whole burthen of Jewiſh Ceremonies: and it juſtifies the Papiſts, who argue for an univerſal Biſhop, from the high Prieſt among the Jews, and for ſacrificing Prieſts, linnen garments, &amp;c. from the cuſtom in the Jewiſh Church.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> Arguing from the Jewiſh types for the ſubſtance of thoſe ſhadows, tends neither to an introducement of <hi>Judaiſm,</hi> nor yet to a juſtification of the <hi>Quiſquillian toys</hi> of the Papiſts for it is neither arguing for the Ceremonies of the Jewiſh Church, nor for the fooleries of the Popiſh Synagogue, but for priviledges which the faithful may expect by Chriſt, of which thoſe Cere<g ref="char:EOLhyphen"/>monies were prenunciative, and are ceaſed, not becauſe they were evil, but becauſe we have the ſubſtanc and truth of them, which is much better, <hi>Non quia damnata, ſed quia in melius mutata, Auguſt.</hi> It cannot be rightly argued from the high Prieſt in the Jewiſh Church, that there muſt be ſuch an <hi>univerſal Biſhop</hi> as the <hi>Pope,</hi> for no ſuch thing was intended by that type, but Chriſt was the ſubſtance of that ſhadow, who is our <hi>great high Prieſt,</hi>
+                  <note place="margin">Heb 4.14</note> nor from the other Prieſts, that there ought to be ſacrificing Prieſts under the Goſpel, for (if that any thing were typified by them) it was a faithful Miniſtry under the Goſpel, to prepare people for the Lord,<note place="margin">Rom. 12.1.2</note> that they may be preſented to him <hi>living ſacrifices, holy and acceptable,</hi> and by their linnen garments innocency and righteouſneſs, with which the Miniſters of God ought to be clothed. The Apoſtle argues from the <hi>ſacrifices</hi> in the Jewiſh Church, the <hi>offering up of our ſelves,</hi>
+                  <note place="margin">Rom. 12 2 Heb. 23.25</note> and <hi>the ſacri<g ref="char:EOLhyphen"/>ficing of praiſes,</hi> which he calls <hi>the calves of the lips, &amp;c.</hi> And
+<pb n="50" facs="tcp:161669:30"/> from ſealing the Promiſe by the initial Sacrament to Infants of Gods people aforetime may the ſealing of the Promiſe by the in<g ref="char:EOLhyphen"/>itial Sacrament to Infants of Chriſtians in this Diſpenſation be rightly argued: Sealing the Promiſe being the ſubſtance of Cir<g ref="char:EOLhyphen"/>cumciſion and benefit intended by it; and ſuch arguing hath no colour of ſetting up Judaiſm, for arguing for the thing ſignified tends not to the introducement of antiquated Ceremonies.</p>
+               <p>Therefore I conclude that orthodox Divines and reformed Churches have ſoundly concluded B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptiſm of Infants of Chriſti<g ref="char:EOLhyphen"/>ans, from Circumciſion of Infants of Gods people aforetime: from which many of them have argued for it: as learned <hi>Whi<g ref="char:EOLhyphen"/>taker:</hi> Infants were circumciſed of old time for the Covenant, therefore, for the ſame cauſe they ought to be baptized: <hi>Circumciſi olim Infantes propter foedus erant, ergo propter e<g ref="char:EOLhyphen"/>andem cauſam baptizandi,</hi> Whitak. <hi>Contr. Durae. p.</hi> 685. Al<g ref="char:EOLhyphen"/>ſo <hi>Calvin;</hi> for as much as God was pleaſed to grant Circumci<g ref="char:EOLhyphen"/>ſion, the Sacrament of Repentance and Faith to Infants, it can<g ref="char:EOLhyphen"/>not be abſurd if now they are partakers of Baptiſm: <hi>Cum Cir<g ref="char:EOLhyphen"/>cumciſionem poenitentiae &amp; fidei Sacramentum, Deus Infanti<g ref="char:EOLhyphen"/>bus communicaret, non abſurdum ſi nunc Baptiſmi participes fiant,</hi> Calv. <hi>&amp;c.</hi>
+               </p>
+               <p>This Argument from <hi>Circumciſion</hi> is filled with the ſcorning and contempt of the <hi>Anabaptiſts,</hi> but if it appear in its full ſtrength againſt them, it alone is able to put to the rout, the moſt numerous Army of them: <hi>Huic argumento non omnes Ana<g ref="char:EOLhyphen"/>baptiſtae reſiſtent;</hi> Whitak. <hi>Contr. Durae. p.</hi> 685. They are like the fiſh called <hi>(Sepia)</hi> which caſteth out a great deal of black ink in the water to darken it, that ſhe may glide away the more eaſily from the hand that elſe would take her; they think, by the multitude of their ſcoffs and jeers at it, to elude it, and eſcape from it.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Edm. Calamy.</signed>
+               <dateline>
+                  <date>
+                     <hi>April</hi> 12. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
